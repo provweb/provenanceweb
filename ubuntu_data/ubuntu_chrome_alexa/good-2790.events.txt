@@ -1,0 +1,151 @@
+3768 01:33:22.566306439 google-chrome-s 11991 startup
+3787 01:33:22.566603826 google-chrome-s 11991 read /lib/x86_64-linux-gnu/libtinfo.so.5 with size 832
+3805 01:33:22.566746479 google-chrome-s 11991 read /lib/x86_64-linux-gnu/libdl.so.2 with size 832
+3821 01:33:22.566880636 google-chrome-s 11991 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+3955 01:33:22.569296834 google-chrome-s 11991 read /usr/bin/google-chrome-stable with size 80
+3975 01:33:22.569361477 google-chrome-s 11991 read /usr/bin/google-chrome-stable with size 1873
+3996 01:33:22.569894686 google-chrome-s 11992 clone process 11992
+4098 01:33:22.570866530 google-chrome-s 11992 execve to /bin/readlink
+4121 01:33:22.571853057 readlink 11992 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+4188 01:33:22.573259416 readlink 11992 exit
+4208 01:33:22.573544100 google-chrome-s 11991 read /usr/bin/google-chrome-stable with size 1873
+4222 01:33:22.573904286 google-chrome-s 11993 clone process 11993
+4327 01:33:22.574799644 google-chrome-s 11993 execve to /usr/bin/dirname
+4347 01:33:22.575551742 dirname 11993 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+4414 01:33:22.576829923 dirname 11993 exit
+4424 01:33:22.577141962 google-chrome-s 11991 read /usr/bin/google-chrome-stable with size 1873
+4498 01:33:22.577945293 google-chrome-s 11994 clone process 11994
+4535 01:33:22.578634427 google-chrome-s 11994 execve to /usr/bin/which
+4556 01:33:22.579736705 which 11994 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+4626 01:33:22.580712924 which 11994 read /usr/bin/which with size 8192
+4640 01:33:22.581009586 which 11994 write /dev/null with size 22
+4643 01:33:22.581201419 which 11994 exit
+4723 01:33:22.582111581 google-chrome-s 11995 clone process 11995
+4752 01:33:22.582579298 google-chrome-s 11995 execve to /bin/mkdir
+4772 01:33:22.583333798 mkdir 11995 read /lib/x86_64-linux-gnu/libselinux.so.1 with size 832
+4792 01:33:22.583508752 mkdir 11995 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+4810 01:33:22.583658146 mkdir 11995 read /lib/x86_64-linux-gnu/libpcre.so.3 with size 832
+4826 01:33:22.583781707 mkdir 11995 read /lib/x86_64-linux-gnu/libdl.so.2 with size 832
+4842 01:33:22.583911033 mkdir 11995 read /lib/x86_64-linux-gnu/libpthread.so.0 with size 832
+4945 01:33:22.586071572 mkdir 11995 exit
+4957 01:33:22.586515541 google-chrome-s 11991 read /usr/bin/google-chrome-stable with size 1873
+4997 01:33:22.587314769 google-chrome-s 11996 clone process 11996
+5058 01:33:22.587621730 google-chrome-s 11991 read /usr/bin/google-chrome-stable with size 1873
+5165 01:33:22.588124572 google-chrome-s 11996 execve to /bin/cat
+5167 01:33:22.588137977 google-chrome-s 11997 clone process 11997
+5203 01:33:22.588388219 google-chrome-s 11991 read /usr/bin/google-chrome-stable with size 1873
+5234 01:33:22.588590878 google-chrome-s 11991 execve to /opt/google/chrome/chrome
+5372 01:33:22.588913336 google-chrome-s 11997 execve to /bin/cat
+5400 01:33:22.589010357 cat 11996 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+5518 01:33:22.589626124 chrome 11991 read /lib/x86_64-linux-gnu/libdl.so.2 with size 832
+5610 01:33:22.589782571 chrome 11991 read /lib/x86_64-linux-gnu/libpthread.so.0 with size 832
+5634 01:33:22.589844443 cat 11997 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+5656 01:33:22.589923893 chrome 11991 read /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 with size 832
+5690 01:33:22.590047575 chrome 11991 read /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0 with size 832
+5710 01:33:22.590255466 chrome 11991 read /usr/lib/x86_64-linux-gnu/libnss3.so with size 832
+5737 01:33:22.590399175 chrome 11991 read /usr/lib/x86_64-linux-gnu/libnssutil3.so with size 832
+5756 01:33:22.590530815 chrome 11991 read /usr/lib/x86_64-linux-gnu/libsmime3.so with size 832
+5776 01:33:22.590666433 chrome 11991 read /usr/lib/x86_64-linux-gnu/libnspr4.so with size 832
+5808 01:33:22.590807798 chrome 11991 read /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0 with size 832
+5836 01:33:22.590964668 chrome 11991 read /usr/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0 with size 832
+5856 01:33:22.591105167 chrome 11991 read /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0 with size 832
+5876 01:33:22.591283097 chrome 11991 read /usr/lib/x86_64-linux-gnu/libcups.so.2 with size 832
+5894 01:33:22.591416678 chrome 11991 read /usr/lib/x86_64-linux-gnu/libdrm.so.2 with size 832
+5914 01:33:22.591552414 chrome 11991 read /lib/x86_64-linux-gnu/libdbus-1.so.3 with size 832
+5932 01:33:22.591690649 chrome 11991 read /lib/x86_64-linux-gnu/libexpat.so.1 with size 832
+5950 01:33:22.591809344 chrome 11991 read /usr/lib/x86_64-linux-gnu/libxcb.so.1 with size 832
+5968 01:33:22.591936726 chrome 11991 read /lib/x86_64-linux-gnu/libm.so.6 with size 832
+5986 01:33:22.592070618 chrome 11991 read /usr/lib/x86_64-linux-gnu/libX11.so.6 with size 832
+6004 01:33:22.592211468 chrome 11991 read /usr/lib/x86_64-linux-gnu/libXcomposite.so.1 with size 832
+6024 01:33:22.592339974 chrome 11991 read /usr/lib/x86_64-linux-gnu/libXdamage.so.1 with size 832
+6042 01:33:22.592450289 chrome 11991 read /usr/lib/x86_64-linux-gnu/libXext.so.6 with size 832
+6060 01:33:22.592568288 chrome 11991 read /usr/lib/x86_64-linux-gnu/libXfixes.so.3 with size 832
+6078 01:33:22.592710524 chrome 11991 read /usr/lib/x86_64-linux-gnu/libXrandr.so.2 with size 832
+6096 01:33:22.592834165 chrome 11991 read /usr/lib/x86_64-linux-gnu/libxkbcommon.so.0 with size 832
+6114 01:33:22.592959701 chrome 11991 read /usr/lib/x86_64-linux-gnu/libgbm.so.1 with size 832
+6134 01:33:22.593088903 chrome 11991 read /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0 with size 832
+6152 01:33:22.593215358 chrome 11991 read /usr/lib/x86_64-linux-gnu/libcairo.so.2 with size 832
+6172 01:33:22.593353315 chrome 11991 read /usr/lib/x86_64-linux-gnu/libasound.so.2 with size 832
+6190 01:33:22.593495274 chrome 11991 read /usr/lib/x86_64-linux-gnu/libatspi.so.0 with size 832
+6208 01:33:22.593619017 chrome 11991 read /usr/lib/x86_64-linux-gnu/libxshmfence.so.1 with size 832
+6226 01:33:22.593744316 chrome 11991 read /lib/x86_64-linux-gnu/libgcc_s.so.1 with size 832
+6246 01:33:22.593906282 chrome 11991 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+6266 01:33:22.594064622 chrome 11991 read /usr/lib/x86_64-linux-gnu/libffi.so.6 with size 832
+6284 01:33:22.594194852 chrome 11991 read /lib/x86_64-linux-gnu/libpcre.so.3 with size 832
+6302 01:33:22.594421731 chrome 11991 read /usr/lib/x86_64-linux-gnu/libplc4.so with size 832
+6320 01:33:22.594545775 chrome 11991 read /usr/lib/x86_64-linux-gnu/libplds4.so with size 832
+6340 01:33:22.594716708 chrome 11991 read /lib/x86_64-linux-gnu/librt.so.1 with size 832
+6358 01:33:22.594877233 chrome 11991 read /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0 with size 832
+6376 01:33:22.595009643 chrome 11991 read /lib/x86_64-linux-gnu/libz.so.1 with size 832
+6394 01:33:22.595146389 chrome 11991 read /lib/x86_64-linux-gnu/libselinux.so.1 with size 832
+6414 01:33:22.595320733 chrome 11991 read /lib/x86_64-linux-gnu/libresolv.so.2 with size 832
+6434 01:33:22.595469028 chrome 11991 read /lib/x86_64-linux-gnu/libmount.so.1 with size 832
+6456 01:33:22.595631787 chrome 11991 read /usr/lib/x86_64-linux-gnu/libgssapi_krb5.so.2 with size 832
+6474 01:33:22.595766123 chrome 11991 read /usr/lib/x86_64-linux-gnu/libgnutls.so.30 with size 832
+6494 01:33:22.595958013 chrome 11991 read /usr/lib/x86_64-linux-gnu/libavahi-common.so.3 with size 832
+6512 01:33:22.596095430 chrome 11991 read /usr/lib/x86_64-linux-gnu/libavahi-client.so.3 with size 832
+6530 01:33:22.596246943 chrome 11991 read /lib/x86_64-linux-gnu/libsystemd.so.0 with size 832
+6550 01:33:22.596407165 chrome 11991 read /usr/lib/x86_64-linux-gnu/libXau.so.6 with size 832
+6570 01:33:22.596551449 chrome 11991 read /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 with size 832
+6588 01:33:22.596706251 chrome 11991 read /usr/lib/x86_64-linux-gnu/libXrender.so.1 with size 832
+6606 01:33:22.596846417 chrome 11991 read /usr/lib/x86_64-linux-gnu/libwayland-server.so.0 with size 832
+6624 01:33:22.596987048 chrome 11991 read /usr/lib/x86_64-linux-gnu/libthai.so.0 with size 832
+6642 01:33:22.597125779 chrome 11991 read /usr/lib/x86_64-linux-gnu/libpixman-1.so.0 with size 832
+6660 01:33:22.597261735 chrome 11991 read /usr/lib/x86_64-linux-gnu/libfontconfig.so.1 with size 832
+6680 01:33:22.597415187 chrome 11991 read /usr/lib/x86_64-linux-gnu/libfreetype.so.6 with size 832
+6698 01:33:22.597553327 chrome 11991 read /usr/lib/x86_64-linux-gnu/libpng16.so.16 with size 832
+6716 01:33:22.597690300 chrome 11991 read /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0 with size 832
+6734 01:33:22.597823281 chrome 11991 read /usr/lib/x86_64-linux-gnu/libxcb-render.so.0 with size 832
+6752 01:33:22.598027651 chrome 11991 read /lib/x86_64-linux-gnu/libblkid.so.1 with size 832
+6774 01:33:22.598280777 chrome 11991 read /usr/lib/x86_64-linux-gnu/libkrb5.so.3 with size 832
+6792 01:33:22.598433773 chrome 11991 read /usr/lib/x86_64-linux-gnu/libk5crypto.so.3 with size 832
+6812 01:33:22.598579839 chrome 11991 read /lib/x86_64-linux-gnu/libcom_err.so.2 with size 832
+6830 01:33:22.598714811 chrome 11991 read /usr/lib/x86_64-linux-gnu/libkrb5support.so.0 with size 832
+6848 01:33:22.598861628 chrome 11991 read /usr/lib/x86_64-linux-gnu/libp11-kit.so.0 with size 832
+6868 01:33:22.599018364 chrome 11991 read /usr/lib/x86_64-linux-gnu/libidn2.so.0 with size 832
+6888 01:33:22.599161427 chrome 11991 read /usr/lib/x86_64-linux-gnu/libunistring.so.2 with size 832
+6906 01:33:22.599343863 chrome 11991 read /usr/lib/x86_64-linux-gnu/libtasn1.so.6 with size 832
+6924 01:33:22.599481996 chrome 11991 read /usr/lib/x86_64-linux-gnu/libnettle.so.6 with size 832
+6942 01:33:22.599623858 chrome 11991 read /usr/lib/x86_64-linux-gnu/libhogweed.so.4 with size 832
+6960 01:33:22.599755197 chrome 11991 read /usr/lib/x86_64-linux-gnu/libgmp.so.10 with size 832
+6978 01:33:22.599920443 chrome 11991 read /lib/x86_64-linux-gnu/liblzma.so.5 with size 832
+6998 01:33:22.600072851 chrome 11991 read /usr/lib/x86_64-linux-gnu/liblz4.so.1 with size 832
+7016 01:33:22.600211118 chrome 11991 read /lib/x86_64-linux-gnu/libgcrypt.so.20 with size 832
+7036 01:33:22.600379907 chrome 11991 read /lib/x86_64-linux-gnu/libbsd.so.0 with size 832
+7056 01:33:22.600554494 chrome 11991 read /usr/lib/x86_64-linux-gnu/libdatrie.so.1 with size 832
+7074 01:33:22.600756806 chrome 11991 read /lib/x86_64-linux-gnu/libuuid.so.1 with size 832
+7104 01:33:22.601095967 chrome 11991 read /lib/x86_64-linux-gnu/libkeyutils.so.1 with size 832
+7122 01:33:22.601354764 chrome 11991 read /lib/x86_64-linux-gnu/libgpg-error.so.0 with size 832
+7602 01:33:22.625338300 chrome 11991 read /etc/localtime with size 4096
+7606 01:33:22.625343115 chrome 11991 read /etc/localtime with size 4096
+7650 01:33:22.625582990 chrome 11991 read /etc/os-release with size 4096
+7652 01:33:22.625584561 chrome 11991 read /etc/os-release with size 4096
+7664 01:33:22.626100155 chrome 11998 clone process 11998
+7682 01:33:22.626659390 chrome 11999 clone process 11999
+7704 01:33:22.626823491 chrome 11999 execve to /opt/google/chrome/chrome_crashpad_handler
+7705 01:33:22.626891724 chrome 11998 exit
+7800 01:33:22.627357911 chrome_crashpad 11999 read /lib/x86_64-linux-gnu/libdl.so.2 with size 832
+7820 01:33:22.627392293 chrome_crashpad 11999 read /lib/x86_64-linux-gnu/libpthread.so.0 with size 832
+7840 01:33:22.627423048 chrome_crashpad 11999 read /lib/x86_64-linux-gnu/libm.so.6 with size 832
+7858 01:33:22.627451698 chrome_crashpad 11999 read /lib/x86_64-linux-gnu/libgcc_s.so.1 with size 832
+7876 01:33:22.627483008 chrome_crashpad 11999 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+8020 01:33:22.627945824 chrome_crashpad 12000 clone process 12000
+8028 01:33:22.628081791 chrome_crashpad 12001 clone process 12001
+8031 01:33:22.628111801 chrome_crashpad 12000 exit
+8059 01:33:22.628221796 chrome_crashpad 12001 execve to /opt/google/chrome/chrome_crashpad_handler
+8143 01:33:22.628413983 chrome_crashpad 12001 read /lib/x86_64-linux-gnu/libdl.so.2 with size 832
+8163 01:33:22.628443295 chrome_crashpad 12001 read /lib/x86_64-linux-gnu/libpthread.so.0 with size 832
+8183 01:33:22.628470336 chrome_crashpad 12001 read /lib/x86_64-linux-gnu/libm.so.6 with size 832
+8201 01:33:22.628494174 chrome_crashpad 12001 read /lib/x86_64-linux-gnu/libgcc_s.so.1 with size 832
+8219 01:33:22.628525284 chrome_crashpad 12001 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+8371 01:33:22.628910000 chrome_crashpad 12001 read /home/dzjp/.config/google-chrome/Cras with size 40
+8383 01:33:22.628938659 chrome_crashpad 12001 read /etc/localtime with size 4096
+8387 01:33:22.628941848 chrome_crashpad 12001 read /etc/localtime with size 4096
+8393 01:33:22.628961476 chrome_crashpad 12001 write /dev/fd/63 with size 79
+8401 01:33:22.628985221 chrome_crashpad 12001 write /home/dzjp/.config/google-chrome/Cras with size 40
+8403 01:33:22.629001779 chrome_crashpad 12001 write /dev/fd/63 with size 79
+8418 01:33:22.629027583 cat 11997 write /dev/pts/0 with size 158
+8438 01:33:22.629086176 chrome_crashpad 12001 exit
+28232 01:33:52.565543576 cat 11997 exit
+28233 01:33:52.565569777 cat 11996 exit
+28243 01:33:52.568066854 chrome 11991 exit

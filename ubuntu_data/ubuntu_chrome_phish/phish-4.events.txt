@@ -1,0 +1,1935 @@
+4504 16:40:20.113770066 google-chrome-s 3008 startup
+4523 16:40:20.114067178 google-chrome-s 3008 read /lib/x86_64-linux-gnu/libtinfo.so.5 with size 832
+4541 16:40:20.114299162 google-chrome-s 3008 read /lib/x86_64-linux-gnu/libdl.so.2 with size 832
+4557 16:40:20.114441412 google-chrome-s 3008 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+4691 16:40:20.116824643 google-chrome-s 3008 read /usr/bin/google-chrome-stable with size 80
+4711 16:40:20.116893193 google-chrome-s 3008 read /usr/bin/google-chrome-stable with size 1873
+4727 16:40:20.117375462 google-chrome-s 3009 clone process 3009
+4834 16:40:20.117716744 google-chrome-s 3009 execve to /bin/readlink
+4854 16:40:20.117834756 readlink 3009 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+4919 16:40:20.118068752 readlink 3009 exit
+4937 16:40:20.118102863 google-chrome-s 3008 read /usr/bin/google-chrome-stable with size 1873
+4959 16:40:20.118214331 google-chrome-s 3010 clone process 3010
+5056 16:40:20.118340967 google-chrome-s 3010 execve to /usr/bin/dirname
+5077 16:40:20.118594538 dirname 3010 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+5131 16:40:20.118812603 dirname 3010 exit
+5145 16:40:20.118849074 google-chrome-s 3008 read /usr/bin/google-chrome-stable with size 1873
+5229 16:40:20.119005378 google-chrome-s 3011 clone process 3011
+5256 16:40:20.119090969 google-chrome-s 3011 execve to /usr/bin/which
+5280 16:40:20.119351056 which 3011 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+5358 16:40:20.119512679 which 3011 read /usr/bin/which with size 8192
+5372 16:40:20.119566245 which 3011 write /dev/null with size 22
+5375 16:40:20.119595815 which 3011 exit
+5472 16:40:20.119781353 google-chrome-s 3012 clone process 3012
+5492 16:40:20.119829130 google-chrome-s 3012 execve to /bin/mkdir
+5524 16:40:20.120107247 mkdir 3012 read /lib/x86_64-linux-gnu/libselinux.so.1 with size 832
+5549 16:40:20.120140376 mkdir 3012 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+5571 16:40:20.120165924 mkdir 3012 read /lib/x86_64-linux-gnu/libpcre.so.3 with size 832
+5589 16:40:20.120192983 mkdir 3012 read /lib/x86_64-linux-gnu/libdl.so.2 with size 832
+5605 16:40:20.120272627 mkdir 3012 read /lib/x86_64-linux-gnu/libpthread.so.0 with size 832
+5770 16:40:20.120623911 mkdir 3012 exit
+5809 16:40:20.120718284 google-chrome-s 3008 read /usr/bin/google-chrome-stable with size 1873
+5877 16:40:20.120893224 google-chrome-s 3013 clone process 3013
+5908 16:40:20.120936302 google-chrome-s 3008 read /usr/bin/google-chrome-stable with size 1873
+6030 16:40:20.121069461 google-chrome-s 3013 execve to /bin/cat
+6037 16:40:20.121101512 google-chrome-s 3014 clone process 3014
+6076 16:40:20.121154678 google-chrome-s 3008 read /usr/bin/google-chrome-stable with size 1873
+6099 16:40:20.121200480 google-chrome-s 3008 execve to /opt/google/chrome/chrome
+6263 16:40:20.121287634 cat 3013 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+6285 16:40:20.121305689 google-chrome-s 3014 execve to /bin/cat
+6418 16:40:20.121434209 chrome 3008 read /lib/x86_64-linux-gnu/libdl.so.2 with size 832
+6450 16:40:20.121462296 chrome 3008 read /lib/x86_64-linux-gnu/libpthread.so.0 with size 832
+6535 16:40:20.121517699 chrome 3008 read /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 with size 832
+6584 16:40:20.121553525 cat 3014 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+6614 16:40:20.121566461 chrome 3008 read /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0 with size 832
+6653 16:40:20.121612295 chrome 3008 read /usr/lib/x86_64-linux-gnu/libnss3.so with size 832
+6680 16:40:20.121648352 chrome 3008 read /usr/lib/x86_64-linux-gnu/libnssutil3.so with size 832
+6698 16:40:20.121678473 chrome 3008 read /usr/lib/x86_64-linux-gnu/libsmime3.so with size 832
+6718 16:40:20.121706125 chrome 3008 read /usr/lib/x86_64-linux-gnu/libnspr4.so with size 832
+6743 16:40:20.121734496 chrome 3008 read /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0 with size 832
+6768 16:40:20.121763306 chrome 3008 read /usr/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0 with size 832
+6798 16:40:20.121792947 chrome 3008 read /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0 with size 832
+6818 16:40:20.121825086 chrome 3008 read /usr/lib/x86_64-linux-gnu/libcups.so.2 with size 832
+6836 16:40:20.121854311 chrome 3008 read /usr/lib/x86_64-linux-gnu/libdrm.so.2 with size 832
+6856 16:40:20.121881733 chrome 3008 read /lib/x86_64-linux-gnu/libdbus-1.so.3 with size 832
+6874 16:40:20.121908551 chrome 3008 read /lib/x86_64-linux-gnu/libexpat.so.1 with size 832
+6892 16:40:20.121934324 chrome 3008 read /usr/lib/x86_64-linux-gnu/libxcb.so.1 with size 832
+6910 16:40:20.121962746 chrome 3008 read /lib/x86_64-linux-gnu/libm.so.6 with size 832
+6928 16:40:20.121992176 chrome 3008 read /usr/lib/x86_64-linux-gnu/libX11.so.6 with size 832
+6946 16:40:20.122029893 chrome 3008 read /usr/lib/x86_64-linux-gnu/libXcomposite.so.1 with size 832
+6966 16:40:20.122064765 chrome 3008 read /usr/lib/x86_64-linux-gnu/libXdamage.so.1 with size 832
+6984 16:40:20.122089539 chrome 3008 read /usr/lib/x86_64-linux-gnu/libXext.so.6 with size 832
+7002 16:40:20.122114107 chrome 3008 read /usr/lib/x86_64-linux-gnu/libXfixes.so.3 with size 832
+7020 16:40:20.122140704 chrome 3008 read /usr/lib/x86_64-linux-gnu/libXrandr.so.2 with size 832
+7038 16:40:20.122165727 chrome 3008 read /usr/lib/x86_64-linux-gnu/libxkbcommon.so.0 with size 832
+7056 16:40:20.122191896 chrome 3008 read /usr/lib/x86_64-linux-gnu/libgbm.so.1 with size 832
+7076 16:40:20.122218662 chrome 3008 read /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0 with size 832
+7094 16:40:20.122251918 chrome 3008 read /usr/lib/x86_64-linux-gnu/libcairo.so.2 with size 832
+7114 16:40:20.122281268 chrome 3008 read /usr/lib/x86_64-linux-gnu/libasound.so.2 with size 832
+7132 16:40:20.122310242 chrome 3008 read /usr/lib/x86_64-linux-gnu/libatspi.so.0 with size 832
+7150 16:40:20.122339752 chrome 3008 read /usr/lib/x86_64-linux-gnu/libxshmfence.so.1 with size 832
+7168 16:40:20.122365558 chrome 3008 read /lib/x86_64-linux-gnu/libgcc_s.so.1 with size 832
+7188 16:40:20.122393203 chrome 3008 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+7208 16:40:20.122425073 chrome 3008 read /usr/lib/x86_64-linux-gnu/libffi.so.6 with size 832
+7226 16:40:20.122453897 chrome 3008 read /lib/x86_64-linux-gnu/libpcre.so.3 with size 832
+7244 16:40:20.122484303 chrome 3008 read /usr/lib/x86_64-linux-gnu/libplc4.so with size 832
+7262 16:40:20.122509637 chrome 3008 read /usr/lib/x86_64-linux-gnu/libplds4.so with size 832
+7282 16:40:20.122544971 chrome 3008 read /lib/x86_64-linux-gnu/librt.so.1 with size 832
+7300 16:40:20.122575397 chrome 3008 read /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0 with size 832
+7318 16:40:20.122604042 chrome 3008 read /lib/x86_64-linux-gnu/libz.so.1 with size 832
+7336 16:40:20.122633768 chrome 3008 read /lib/x86_64-linux-gnu/libselinux.so.1 with size 832
+7356 16:40:20.122662668 chrome 3008 read /lib/x86_64-linux-gnu/libresolv.so.2 with size 832
+7376 16:40:20.122692616 chrome 3008 read /lib/x86_64-linux-gnu/libmount.so.1 with size 832
+7398 16:40:20.122727956 chrome 3008 read /usr/lib/x86_64-linux-gnu/libgssapi_krb5.so.2 with size 832
+7416 16:40:20.122756399 chrome 3008 read /usr/lib/x86_64-linux-gnu/libgnutls.so.30 with size 832
+7436 16:40:20.122790216 chrome 3008 read /usr/lib/x86_64-linux-gnu/libavahi-common.so.3 with size 832
+7454 16:40:20.122817496 chrome 3008 read /usr/lib/x86_64-linux-gnu/libavahi-client.so.3 with size 832
+7472 16:40:20.122848393 chrome 3008 read /lib/x86_64-linux-gnu/libsystemd.so.0 with size 832
+7492 16:40:20.122884953 chrome 3008 read /usr/lib/x86_64-linux-gnu/libXau.so.6 with size 832
+7512 16:40:20.122915527 chrome 3008 read /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 with size 832
+7530 16:40:20.122948506 chrome 3008 read /usr/lib/x86_64-linux-gnu/libXrender.so.1 with size 832
+7548 16:40:20.122978113 chrome 3008 read /usr/lib/x86_64-linux-gnu/libwayland-server.so.0 with size 832
+7566 16:40:20.123008620 chrome 3008 read /usr/lib/x86_64-linux-gnu/libthai.so.0 with size 832
+7584 16:40:20.123044034 chrome 3008 read /usr/lib/x86_64-linux-gnu/libpixman-1.so.0 with size 832
+7602 16:40:20.123074319 chrome 3008 read /usr/lib/x86_64-linux-gnu/libfontconfig.so.1 with size 832
+7622 16:40:20.123117004 chrome 3008 read /usr/lib/x86_64-linux-gnu/libfreetype.so.6 with size 832
+7640 16:40:20.123145968 chrome 3008 read /usr/lib/x86_64-linux-gnu/libpng16.so.16 with size 832
+7658 16:40:20.123173543 chrome 3008 read /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0 with size 832
+7676 16:40:20.123200274 chrome 3008 read /usr/lib/x86_64-linux-gnu/libxcb-render.so.0 with size 832
+7694 16:40:20.123242482 chrome 3008 read /lib/x86_64-linux-gnu/libblkid.so.1 with size 832
+7716 16:40:20.123282604 chrome 3008 read /usr/lib/x86_64-linux-gnu/libkrb5.so.3 with size 832
+7734 16:40:20.123314677 chrome 3008 read /usr/lib/x86_64-linux-gnu/libk5crypto.so.3 with size 832
+7754 16:40:20.123345276 chrome 3008 read /lib/x86_64-linux-gnu/libcom_err.so.2 with size 832
+7772 16:40:20.123373940 chrome 3008 read /usr/lib/x86_64-linux-gnu/libkrb5support.so.0 with size 832
+7790 16:40:20.123404775 chrome 3008 read /usr/lib/x86_64-linux-gnu/libp11-kit.so.0 with size 832
+7810 16:40:20.123437688 chrome 3008 read /usr/lib/x86_64-linux-gnu/libidn2.so.0 with size 832
+7830 16:40:20.123475111 chrome 3008 read /usr/lib/x86_64-linux-gnu/libunistring.so.2 with size 832
+7848 16:40:20.123511219 chrome 3008 read /usr/lib/x86_64-linux-gnu/libtasn1.so.6 with size 832
+7866 16:40:20.123549140 chrome 3008 read /usr/lib/x86_64-linux-gnu/libnettle.so.6 with size 832
+7884 16:40:20.123587485 chrome 3008 read /usr/lib/x86_64-linux-gnu/libhogweed.so.4 with size 832
+7902 16:40:20.123621703 chrome 3008 read /usr/lib/x86_64-linux-gnu/libgmp.so.10 with size 832
+7920 16:40:20.123660882 chrome 3008 read /lib/x86_64-linux-gnu/liblzma.so.5 with size 832
+7940 16:40:20.123700207 chrome 3008 read /usr/lib/x86_64-linux-gnu/liblz4.so.1 with size 832
+7958 16:40:20.123734791 chrome 3008 read /lib/x86_64-linux-gnu/libgcrypt.so.20 with size 832
+7978 16:40:20.123773329 chrome 3008 read /lib/x86_64-linux-gnu/libbsd.so.0 with size 832
+7998 16:40:20.123817137 chrome 3008 read /usr/lib/x86_64-linux-gnu/libdatrie.so.1 with size 832
+8016 16:40:20.123864133 chrome 3008 read /lib/x86_64-linux-gnu/libuuid.so.1 with size 832
+8036 16:40:20.123907523 chrome 3008 read /lib/x86_64-linux-gnu/libkeyutils.so.1 with size 832
+8054 16:40:20.123956679 chrome 3008 read /lib/x86_64-linux-gnu/libgpg-error.so.0 with size 832
+8527 16:40:20.135478878 chrome 3008 read /etc/localtime with size 4096
+8531 16:40:20.135483049 chrome 3008 read /etc/localtime with size 4096
+8575 16:40:20.135664728 chrome 3008 read /etc/os-release with size 4096
+8577 16:40:20.135666345 chrome 3008 read /etc/os-release with size 4096
+8601 16:40:20.136163514 chrome 3015 clone process 3015
+8621 16:40:20.137049654 chrome 3016 clone process 3016
+8642 16:40:20.137207148 chrome 3016 execve to /opt/google/chrome/chrome_crashpad_handler
+8644 16:40:20.137231033 chrome 3015 exit
+8728 16:40:20.137743026 chrome_crashpad 3016 read /lib/x86_64-linux-gnu/libdl.so.2 with size 832
+8748 16:40:20.137772358 chrome_crashpad 3016 read /lib/x86_64-linux-gnu/libpthread.so.0 with size 832
+8768 16:40:20.137800315 chrome_crashpad 3016 read /lib/x86_64-linux-gnu/libm.so.6 with size 832
+8786 16:40:20.137824843 chrome_crashpad 3016 read /lib/x86_64-linux-gnu/libgcc_s.so.1 with size 832
+8804 16:40:20.137850031 chrome_crashpad 3016 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+8959 16:40:20.138340354 chrome_crashpad 3017 clone process 3017
+8974 16:40:20.138476598 chrome_crashpad 3017 exit
+9513 16:40:20.139407481 chrome_crashpad 3016 read /home/dzjp/.config/google-chrome/Cras with size 40
+9535 16:40:20.139526404 chrome_crashpad 3016 clone thread 3020
+9543 16:40:20.139536430 chrome_crashpad 3016 clone thread 3021
+9663 16:40:20.139691046 chrome 3008 read /home/dzjp/.config/google-chrome/Cras with size 40
+9679 16:40:20.139711095 chrome 3008 read /home/dzjp/.config/google-chrome/Cras with size 40
+9691 16:40:20.139735328 chrome 3008 write /home/dzjp/.config/google-chrome/Cras with size 40
+9785 16:40:20.139900050 chrome 3008 clone thread 3022
+9835 16:40:20.140350002 chrome 3023 clone process 3023
+9869 16:40:20.140697623 chrome 3023 exit
+9921 16:40:20.141706163 chrome 3024 clone process 3024
+9922 16:40:20.141707509 chrome 3025 clone process 3025
+10510 16:40:20.141890122 chrome 3025 execve to /opt/google/chrome/chrome
+10532 16:40:20.141908723 chrome 3024 execve to /opt/google/chrome/chrome
+10624 16:40:20.142327678 chrome 3025 read /lib/x86_64-linux-gnu/libdl.so.2 with size 832
+10702 16:40:20.142359956 chrome 3025 read /lib/x86_64-linux-gnu/libpthread.so.0 with size 832
+10731 16:40:20.142374309 chrome 3024 read /lib/x86_64-linux-gnu/libdl.so.2 with size 832
+10752 16:40:20.142390028 chrome 3025 read /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 with size 832
+10767 16:40:20.142401236 chrome 3024 read /lib/x86_64-linux-gnu/libpthread.so.0 with size 832
+10794 16:40:20.142422039 chrome 3025 read /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0 with size 832
+10803 16:40:20.142426912 chrome 3024 read /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 with size 832
+10830 16:40:20.142450184 chrome 3024 read /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0 with size 832
+10848 16:40:20.142462993 chrome 3025 read /usr/lib/x86_64-linux-gnu/libnss3.so with size 832
+10867 16:40:20.142477204 chrome 3024 read /usr/lib/x86_64-linux-gnu/libnss3.so with size 832
+10890 16:40:20.142495573 chrome 3025 read /usr/lib/x86_64-linux-gnu/libnssutil3.so with size 832
+10903 16:40:20.142501633 chrome 3024 read /usr/lib/x86_64-linux-gnu/libnssutil3.so with size 832
+10932 16:40:20.142527312 chrome 3024 read /usr/lib/x86_64-linux-gnu/libsmime3.so with size 832
+10933 16:40:20.142527418 chrome 3025 read /usr/lib/x86_64-linux-gnu/libsmime3.so with size 832
+10965 16:40:20.142565025 chrome 3025 read /usr/lib/x86_64-linux-gnu/libnspr4.so with size 832
+10985 16:40:20.142579219 chrome 3024 read /usr/lib/x86_64-linux-gnu/libnspr4.so with size 832
+11007 16:40:20.142597387 chrome 3025 read /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0 with size 832
+11020 16:40:20.142606970 chrome 3024 read /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0 with size 832
+11049 16:40:20.142632005 chrome 3025 read /usr/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0 with size 832
+11050 16:40:20.142632220 chrome 3024 read /usr/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0 with size 832
+11088 16:40:20.142665068 chrome 3024 read /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0 with size 832
+11090 16:40:20.142665656 chrome 3025 read /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0 with size 832
+11123 16:40:20.142704766 chrome 3024 read /usr/lib/x86_64-linux-gnu/libcups.so.2 with size 832
+11138 16:40:20.142713971 chrome 3025 read /usr/lib/x86_64-linux-gnu/libcups.so.2 with size 832
+11163 16:40:20.142737474 chrome 3024 read /usr/lib/x86_64-linux-gnu/libdrm.so.2 with size 832
+11169 16:40:20.142739960 chrome 3025 read /usr/lib/x86_64-linux-gnu/libdrm.so.2 with size 832
+11205 16:40:20.142768667 chrome 3024 read /lib/x86_64-linux-gnu/libdbus-1.so.3 with size 832
+11206 16:40:20.142768875 chrome 3025 read /lib/x86_64-linux-gnu/libdbus-1.so.3 with size 832
+11241 16:40:20.142801764 chrome 3024 read /lib/x86_64-linux-gnu/libexpat.so.1 with size 832
+11242 16:40:20.142802073 chrome 3025 read /lib/x86_64-linux-gnu/libexpat.so.1 with size 832
+11272 16:40:20.142839870 chrome 3025 read /usr/lib/x86_64-linux-gnu/libxcb.so.1 with size 832
+11285 16:40:20.142848452 chrome 3024 read /usr/lib/x86_64-linux-gnu/libxcb.so.1 with size 832
+11313 16:40:20.142872302 chrome 3025 read /lib/x86_64-linux-gnu/libm.so.6 with size 832
+11316 16:40:20.142873759 chrome 3024 read /lib/x86_64-linux-gnu/libm.so.6 with size 832
+11343 16:40:20.142913256 chrome 3024 read /usr/lib/x86_64-linux-gnu/libX11.so.6 with size 832
+11361 16:40:20.142925980 chrome 3025 read /usr/lib/x86_64-linux-gnu/libX11.so.6 with size 832
+11381 16:40:20.142942504 chrome 3024 read /usr/lib/x86_64-linux-gnu/libXcomposite.so.1 with size 832
+11398 16:40:20.142953215 chrome 3025 read /usr/lib/x86_64-linux-gnu/libXcomposite.so.1 with size 832
+11419 16:40:20.142968371 chrome 3024 read /usr/lib/x86_64-linux-gnu/libXdamage.so.1 with size 832
+11437 16:40:20.142977862 chrome 3025 read /usr/lib/x86_64-linux-gnu/libXdamage.so.1 with size 832
+11456 16:40:20.142990995 chrome 3024 read /usr/lib/x86_64-linux-gnu/libXext.so.6 with size 832
+11472 16:40:20.142999617 chrome 3025 read /usr/lib/x86_64-linux-gnu/libXext.so.6 with size 832
+11493 16:40:20.143014661 chrome 3024 read /usr/lib/x86_64-linux-gnu/libXfixes.so.3 with size 832
+11506 16:40:20.143022301 chrome 3025 read /usr/lib/x86_64-linux-gnu/libXfixes.so.3 with size 832
+11530 16:40:20.143041000 chrome 3024 read /usr/lib/x86_64-linux-gnu/libXrandr.so.2 with size 832
+11542 16:40:20.143046370 chrome 3025 read /usr/lib/x86_64-linux-gnu/libXrandr.so.2 with size 832
+11570 16:40:20.143069373 chrome 3024 read /usr/lib/x86_64-linux-gnu/libxkbcommon.so.0 with size 832
+11573 16:40:20.143070916 chrome 3025 read /usr/lib/x86_64-linux-gnu/libxkbcommon.so.0 with size 832
+11607 16:40:20.143100010 chrome 3025 read /usr/lib/x86_64-linux-gnu/libgbm.so.1 with size 832
+11608 16:40:20.143100315 chrome 3024 read /usr/lib/x86_64-linux-gnu/libgbm.so.1 with size 832
+11647 16:40:20.143132085 chrome 3024 read /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0 with size 832
+11648 16:40:20.143132088 chrome 3025 read /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0 with size 832
+11679 16:40:20.143172528 chrome 3024 read /usr/lib/x86_64-linux-gnu/libcairo.so.2 with size 832
+11691 16:40:20.143179768 chrome 3025 read /usr/lib/x86_64-linux-gnu/libcairo.so.2 with size 832
+11723 16:40:20.143207833 chrome 3024 read /usr/lib/x86_64-linux-gnu/libasound.so.2 with size 832
+11725 16:40:20.143208394 chrome 3025 read /usr/lib/x86_64-linux-gnu/libasound.so.2 with size 832
+11756 16:40:20.143249416 chrome 3025 read /usr/lib/x86_64-linux-gnu/libatspi.so.0 with size 832
+11768 16:40:20.143255298 chrome 3024 read /usr/lib/x86_64-linux-gnu/libatspi.so.0 with size 832
+11797 16:40:20.143298475 chrome 3025 read /usr/lib/x86_64-linux-gnu/libxshmfence.so.1 with size 832
+11798 16:40:20.143298541 chrome 3024 read /usr/lib/x86_64-linux-gnu/libxshmfence.so.1 with size 832
+11832 16:40:20.143338011 chrome 3024 read /lib/x86_64-linux-gnu/libgcc_s.so.1 with size 832
+11836 16:40:20.143339591 chrome 3025 read /lib/x86_64-linux-gnu/libgcc_s.so.1 with size 832
+11871 16:40:20.143364642 chrome 3024 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+11877 16:40:20.143366768 chrome 3025 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+11912 16:40:20.143400565 chrome 3024 read /usr/lib/x86_64-linux-gnu/libffi.so.6 with size 832
+11914 16:40:20.143401102 chrome 3025 read /usr/lib/x86_64-linux-gnu/libffi.so.6 with size 832
+11949 16:40:20.143431015 chrome 3024 read /lib/x86_64-linux-gnu/libpcre.so.3 with size 832
+11950 16:40:20.143431354 chrome 3025 read /lib/x86_64-linux-gnu/libpcre.so.3 with size 832
+11984 16:40:20.143464130 chrome 3024 read /usr/lib/x86_64-linux-gnu/libplc4.so with size 832
+11986 16:40:20.143465040 chrome 3025 read /usr/lib/x86_64-linux-gnu/libplc4.so with size 832
+12021 16:40:20.143489516 chrome 3025 read /usr/lib/x86_64-linux-gnu/libplds4.so with size 832
+12022 16:40:20.143489534 chrome 3024 read /usr/lib/x86_64-linux-gnu/libplds4.so with size 832
+12056 16:40:20.143530561 chrome 3025 read /lib/x86_64-linux-gnu/librt.so.1 with size 832
+12071 16:40:20.143538972 chrome 3024 read /lib/x86_64-linux-gnu/librt.so.1 with size 832
+12098 16:40:20.143568025 chrome 3024 read /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0 with size 832
+12099 16:40:20.143568098 chrome 3025 read /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0 with size 832
+12134 16:40:20.143598145 chrome 3025 read /lib/x86_64-linux-gnu/libz.so.1 with size 832
+12135 16:40:20.143598322 chrome 3024 read /lib/x86_64-linux-gnu/libz.so.1 with size 832
+12166 16:40:20.143637225 chrome 3025 read /lib/x86_64-linux-gnu/libselinux.so.1 with size 832
+12178 16:40:20.143643814 chrome 3024 read /lib/x86_64-linux-gnu/libselinux.so.1 with size 832
+12211 16:40:20.143673735 chrome 3025 read /lib/x86_64-linux-gnu/libresolv.so.2 with size 832
+12212 16:40:20.143673821 chrome 3024 read /lib/x86_64-linux-gnu/libresolv.so.2 with size 832
+12251 16:40:20.143706184 chrome 3024 read /lib/x86_64-linux-gnu/libmount.so.1 with size 832
+12252 16:40:20.143706372 chrome 3025 read /lib/x86_64-linux-gnu/libmount.so.1 with size 832
+12295 16:40:20.143742626 chrome 3024 read /usr/lib/x86_64-linux-gnu/libgssapi_krb5.so.2 with size 832
+12296 16:40:20.143742800 chrome 3025 read /usr/lib/x86_64-linux-gnu/libgssapi_krb5.so.2 with size 832
+12330 16:40:20.143770617 chrome 3024 read /usr/lib/x86_64-linux-gnu/libgnutls.so.30 with size 832
+12334 16:40:20.143772335 chrome 3025 read /usr/lib/x86_64-linux-gnu/libgnutls.so.30 with size 832
+12365 16:40:20.143803895 chrome 3024 read /usr/lib/x86_64-linux-gnu/libavahi-common.so.3 with size 832
+12388 16:40:20.143827897 chrome 3025 read /usr/lib/x86_64-linux-gnu/libavahi-common.so.3 with size 832
+12390 16:40:20.143828587 chrome 3024 read /usr/lib/x86_64-linux-gnu/libavahi-client.so.3 with size 832
+12422 16:40:20.143874453 chrome 3024 read /lib/x86_64-linux-gnu/libsystemd.so.0 with size 832
+12430 16:40:20.143877999 chrome 3025 read /usr/lib/x86_64-linux-gnu/libavahi-client.so.3 with size 832
+12460 16:40:20.143909455 chrome 3025 read /lib/x86_64-linux-gnu/libsystemd.so.0 with size 832
+12468 16:40:20.143913690 chrome 3024 read /usr/lib/x86_64-linux-gnu/libXau.so.6 with size 832
+12500 16:40:20.143957027 chrome 3025 read /usr/lib/x86_64-linux-gnu/libXau.so.6 with size 832
+12509 16:40:20.143961096 chrome 3024 read /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 with size 832
+12538 16:40:20.143989158 chrome 3025 read /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 with size 832
+12546 16:40:20.143992725 chrome 3024 read /usr/lib/x86_64-linux-gnu/libXrender.so.1 with size 832
+12572 16:40:20.144018917 chrome 3024 read /usr/lib/x86_64-linux-gnu/libwayland-server.so.0 with size 832
+12584 16:40:20.144025962 chrome 3025 read /usr/lib/x86_64-linux-gnu/libXrender.so.1 with size 832
+12607 16:40:20.144064570 chrome 3024 read /usr/lib/x86_64-linux-gnu/libthai.so.0 with size 832
+12623 16:40:20.144074168 chrome 3025 read /usr/lib/x86_64-linux-gnu/libwayland-server.so.0 with size 832
+12643 16:40:20.144091384 chrome 3024 read /usr/lib/x86_64-linux-gnu/libpixman-1.so.0 with size 832
+12659 16:40:20.144101697 chrome 3025 read /usr/lib/x86_64-linux-gnu/libthai.so.0 with size 832
+12679 16:40:20.144117384 chrome 3024 read /usr/lib/x86_64-linux-gnu/libfontconfig.so.1 with size 832
+12694 16:40:20.144127962 chrome 3025 read /usr/lib/x86_64-linux-gnu/libpixman-1.so.0 with size 832
+12718 16:40:20.144148320 chrome 3024 read /usr/lib/x86_64-linux-gnu/libfreetype.so.6 with size 832
+12730 16:40:20.144154112 chrome 3025 read /usr/lib/x86_64-linux-gnu/libfontconfig.so.1 with size 832
+12755 16:40:20.144173682 chrome 3024 read /usr/lib/x86_64-linux-gnu/libpng16.so.16 with size 832
+12771 16:40:20.144182376 chrome 3025 read /usr/lib/x86_64-linux-gnu/libfreetype.so.6 with size 832
+12791 16:40:20.144199218 chrome 3024 read /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0 with size 832
+12807 16:40:20.144242243 chrome 3025 read /usr/lib/x86_64-linux-gnu/libpng16.so.16 with size 832
+12825 16:40:20.144287898 chrome 3024 read /usr/lib/x86_64-linux-gnu/libxcb-render.so.0 with size 832
+12845 16:40:20.144304321 chrome 3025 read /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0 with size 832
+12867 16:40:20.144327058 chrome 3024 read /lib/x86_64-linux-gnu/libblkid.so.1 with size 832
+12874 16:40:20.144329489 chrome 3025 read /usr/lib/x86_64-linux-gnu/libxcb-render.so.0 with size 832
+12904 16:40:20.144362998 chrome 3024 read /usr/lib/x86_64-linux-gnu/libkrb5.so.3 with size 832
+12916 16:40:20.144368354 chrome 3025 read /lib/x86_64-linux-gnu/libblkid.so.1 with size 832
+12943 16:40:20.144390941 chrome 3024 read /usr/lib/x86_64-linux-gnu/libk5crypto.so.3 with size 832
+12960 16:40:20.144402666 chrome 3025 read /usr/lib/x86_64-linux-gnu/libkrb5.so.3 with size 832
+12981 16:40:20.144419857 chrome 3024 read /lib/x86_64-linux-gnu/libcom_err.so.2 with size 832
+12996 16:40:20.144428637 chrome 3025 read /usr/lib/x86_64-linux-gnu/libk5crypto.so.3 with size 832
+13019 16:40:20.144446199 chrome 3024 read /usr/lib/x86_64-linux-gnu/libkrb5support.so.0 with size 832
+13035 16:40:20.144456576 chrome 3025 read /lib/x86_64-linux-gnu/libcom_err.so.2 with size 832
+13055 16:40:20.144475204 chrome 3024 read /usr/lib/x86_64-linux-gnu/libp11-kit.so.0 with size 832
+13069 16:40:20.144482779 chrome 3025 read /usr/lib/x86_64-linux-gnu/libkrb5support.so.0 with size 832
+13094 16:40:20.144504396 chrome 3024 read /usr/lib/x86_64-linux-gnu/libidn2.so.0 with size 832
+13106 16:40:20.144511101 chrome 3025 read /usr/lib/x86_64-linux-gnu/libp11-kit.so.0 with size 832
+13133 16:40:20.144534203 chrome 3024 read /usr/lib/x86_64-linux-gnu/libunistring.so.2 with size 832
+13149 16:40:20.144544549 chrome 3025 read /usr/lib/x86_64-linux-gnu/libidn2.so.0 with size 832
+13171 16:40:20.144562683 chrome 3024 read /usr/lib/x86_64-linux-gnu/libtasn1.so.6 with size 832
+13187 16:40:20.144571372 chrome 3025 read /usr/lib/x86_64-linux-gnu/libunistring.so.2 with size 832
+13207 16:40:20.144588321 chrome 3024 read /usr/lib/x86_64-linux-gnu/libnettle.so.6 with size 832
+13223 16:40:20.144598188 chrome 3025 read /usr/lib/x86_64-linux-gnu/libtasn1.so.6 with size 832
+13243 16:40:20.144614893 chrome 3024 read /usr/lib/x86_64-linux-gnu/libhogweed.so.4 with size 832
+13258 16:40:20.144623059 chrome 3025 read /usr/lib/x86_64-linux-gnu/libnettle.so.6 with size 832
+13279 16:40:20.144639978 chrome 3024 read /usr/lib/x86_64-linux-gnu/libgmp.so.10 with size 832
+13295 16:40:20.144649277 chrome 3025 read /usr/lib/x86_64-linux-gnu/libhogweed.so.4 with size 832
+13319 16:40:20.144671499 chrome 3024 read /lib/x86_64-linux-gnu/liblzma.so.5 with size 832
+13326 16:40:20.144674233 chrome 3025 read /usr/lib/x86_64-linux-gnu/libgmp.so.10 with size 832
+13356 16:40:20.144701384 chrome 3024 read /usr/lib/x86_64-linux-gnu/liblz4.so.1 with size 832
+13364 16:40:20.144704603 chrome 3025 read /lib/x86_64-linux-gnu/liblzma.so.5 with size 832
+13393 16:40:20.144728374 chrome 3024 read /lib/x86_64-linux-gnu/libgcrypt.so.20 with size 832
+13402 16:40:20.144732713 chrome 3025 read /usr/lib/x86_64-linux-gnu/liblz4.so.1 with size 832
+13433 16:40:20.144758801 chrome 3025 read /lib/x86_64-linux-gnu/libgcrypt.so.20 with size 832
+13439 16:40:20.144761124 chrome 3024 read /lib/x86_64-linux-gnu/libbsd.so.0 with size 832
+13470 16:40:20.144790225 chrome 3025 read /lib/x86_64-linux-gnu/libbsd.so.0 with size 832
+13481 16:40:20.144796038 chrome 3024 read /usr/lib/x86_64-linux-gnu/libdatrie.so.1 with size 832
+13507 16:40:20.144822447 chrome 3025 read /usr/lib/x86_64-linux-gnu/libdatrie.so.1 with size 832
+13523 16:40:20.144834867 chrome 3024 read /lib/x86_64-linux-gnu/libuuid.so.1 with size 832
+13545 16:40:20.144860369 chrome 3025 read /lib/x86_64-linux-gnu/libuuid.so.1 with size 832
+13561 16:40:20.144869288 chrome 3024 read /lib/x86_64-linux-gnu/libkeyutils.so.1 with size 832
+13583 16:40:20.144893038 chrome 3025 read /lib/x86_64-linux-gnu/libkeyutils.so.1 with size 832
+13601 16:40:20.144910937 chrome 3024 read /lib/x86_64-linux-gnu/libgpg-error.so.0 with size 832
+13619 16:40:20.144933228 chrome 3025 read /lib/x86_64-linux-gnu/libgpg-error.so.0 with size 832
+14687 16:40:20.155097844 chrome 3024 read /etc/localtime with size 4096
+14688 16:40:20.155097964 chrome 3025 read /etc/localtime with size 4096
+14695 16:40:20.155101999 chrome 3025 read /etc/localtime with size 4096
+14696 16:40:20.155102066 chrome 3024 read /etc/localtime with size 4096
+14779 16:40:20.155278788 chrome 3025 read /usr/share/locale/locale.alias with size 4096
+14780 16:40:20.155278887 chrome 3024 read /usr/share/locale/locale.alias with size 4096
+14783 16:40:20.155294189 chrome 3024 read /usr/share/locale/locale.alias with size 4096
+14785 16:40:20.155294924 chrome 3025 read /usr/share/locale/locale.alias with size 4096
+14951 16:40:20.155826060 chrome 3024 read /opt/google/chrome/WidevineCdm/manifest.json with size 4096
+14952 16:40:20.155826107 chrome 3025 read /opt/google/chrome/WidevineCdm/manifest.json with size 4096
+14955 16:40:20.155829013 chrome 3025 read /opt/google/chrome/WidevineCdm/manifest.json with size 4096
+14956 16:40:20.155829029 chrome 3024 read /opt/google/chrome/WidevineCdm/manifest.json with size 4096
+14987 16:40:20.155884123 chrome 3025 read /home/dzjp/.config/google-chrome/WidevineCdm/latest-component-updated-widevine-cdm with size 4096
+14988 16:40:20.155884394 chrome 3024 read /home/dzjp/.config/google-chrome/WidevineCdm/latest-component-updated-widevine-cdm with size 4096
+14990 16:40:20.155885814 chrome 3024 read /home/dzjp/.config/google-chrome/WidevineCdm/latest-component-updated-widevine-cdm with size 4096
+15001 16:40:20.155893284 chrome 3025 read /home/dzjp/.config/google-chrome/WidevineCdm/latest-component-updated-widevine-cdm with size 4096
+15009 16:40:20.155894584 chrome 3024 read /opt/google/chrome/WidevineCdm/manifest.json with size 4096
+15011 16:40:20.155895541 chrome 3024 read /opt/google/chrome/WidevineCdm/manifest.json with size 4096
+15027 16:40:20.155903687 chrome 3025 read /opt/google/chrome/WidevineCdm/manifest.json with size 4096
+15029 16:40:20.155904634 chrome 3025 read /opt/google/chrome/WidevineCdm/manifest.json with size 4096
+15041 16:40:20.155938241 chrome 3024 read /opt/google/chrome/WidevineCdm/_platform_specific/linux_x64/libwidevinecdm.so with size 832
+15048 16:40:20.155943919 chrome 3025 read /opt/google/chrome/WidevineCdm/_platform_specific/linux_x64/libwidevinecdm.so with size 832
+15130 16:40:20.156173354 chrome 3024 read /dev/urandom with size 4
+15136 16:40:20.156175703 chrome 3025 read /dev/urandom with size 4
+15246 16:40:20.158867495 chrome 3026 clone process 3026
+15567 16:40:20.159054820 chrome 3026 execve to /opt/google/chrome/nacl_helper
+15587 16:40:20.159443829 nacl_helper 3026 read /lib/x86_64-linux-gnu/libdl.so.2 with size 832
+15605 16:40:20.159471681 nacl_helper 3026 read /lib/x86_64-linux-gnu/libpthread.so.0 with size 832
+15623 16:40:20.159496518 nacl_helper 3026 read /lib/x86_64-linux-gnu/librt.so.1 with size 832
+15639 16:40:20.159519207 nacl_helper 3026 read /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 with size 832
+15655 16:40:20.159544979 nacl_helper 3026 read /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0 with size 832
+15673 16:40:20.159572234 nacl_helper 3026 read /usr/lib/x86_64-linux-gnu/libnss3.so with size 832
+15691 16:40:20.159594672 nacl_helper 3026 read /usr/lib/x86_64-linux-gnu/libnssutil3.so with size 832
+15709 16:40:20.159618210 nacl_helper 3026 read /usr/lib/x86_64-linux-gnu/libnspr4.so with size 832
+15727 16:40:20.159641895 nacl_helper 3026 read /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0 with size 832
+15743 16:40:20.159664938 nacl_helper 3026 read /usr/lib/x86_64-linux-gnu/libdrm.so.2 with size 832
+15759 16:40:20.159687030 nacl_helper 3026 read /usr/lib/x86_64-linux-gnu/libxcb.so.1 with size 832
+15775 16:40:20.159708938 nacl_helper 3026 read /usr/lib/x86_64-linux-gnu/libxkbcommon.so.0 with size 832
+15791 16:40:20.159731548 nacl_helper 3026 read /usr/lib/x86_64-linux-gnu/libgbm.so.1 with size 832
+15809 16:40:20.159753240 nacl_helper 3026 read /lib/x86_64-linux-gnu/libm.so.6 with size 832
+15825 16:40:20.159776090 nacl_helper 3026 read /usr/lib/x86_64-linux-gnu/libX11.so.6 with size 832
+15841 16:40:20.159799940 nacl_helper 3026 read /usr/lib/x86_64-linux-gnu/libXext.so.6 with size 832
+15857 16:40:20.159822417 nacl_helper 3026 read /lib/x86_64-linux-gnu/libdbus-1.so.3 with size 832
+15873 16:40:20.159845535 nacl_helper 3026 read /lib/x86_64-linux-gnu/libgcc_s.so.1 with size 832
+15889 16:40:20.159867176 nacl_helper 3026 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+15909 16:40:20.159899575 nacl_helper 3026 read /usr/lib/x86_64-linux-gnu/libffi.so.6 with size 832
+15925 16:40:20.159923276 nacl_helper 3026 read /lib/x86_64-linux-gnu/libpcre.so.3 with size 832
+15941 16:40:20.159949558 nacl_helper 3026 read /usr/lib/x86_64-linux-gnu/libplc4.so with size 832
+15957 16:40:20.159969206 nacl_helper 3026 read /usr/lib/x86_64-linux-gnu/libplds4.so with size 832
+15973 16:40:20.159993983 nacl_helper 3026 read /usr/lib/x86_64-linux-gnu/libXau.so.6 with size 832
+15991 16:40:20.160018755 nacl_helper 3026 read /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 with size 832
+16007 16:40:20.160041674 nacl_helper 3026 read /usr/lib/x86_64-linux-gnu/libwayland-server.so.0 with size 832
+16023 16:40:20.160062890 nacl_helper 3026 read /lib/x86_64-linux-gnu/libexpat.so.1 with size 832
+16039 16:40:20.160087846 nacl_helper 3026 read /lib/x86_64-linux-gnu/libsystemd.so.0 with size 832
+16057 16:40:20.160118609 nacl_helper 3026 read /lib/x86_64-linux-gnu/libbsd.so.0 with size 832
+16077 16:40:20.160148130 nacl_helper 3026 read /lib/x86_64-linux-gnu/liblzma.so.5 with size 832
+16093 16:40:20.160172565 nacl_helper 3026 read /usr/lib/x86_64-linux-gnu/liblz4.so.1 with size 832
+16109 16:40:20.160196075 nacl_helper 3026 read /lib/x86_64-linux-gnu/libgcrypt.so.20 with size 832
+16127 16:40:20.160236663 nacl_helper 3026 read /lib/x86_64-linux-gnu/libgpg-error.so.0 with size 832
+16354 16:40:20.161793411 nacl_helper 3027 clone process 3027
+16360 16:40:20.161817842 nacl_helper 3027 exit
+16467 16:40:20.162068066 chrome 3028 clone process 3028
+16477 16:40:20.162093411 chrome 3028 exit
+16533 16:40:20.162450536 chrome 3029 clone process 3029
+16606 16:40:20.166445933 chrome 3008 clone thread 3030
+16731 16:40:20.167014457 chrome 3008 read /etc/machine-id with size 4096
+16733 16:40:20.167019089 chrome 3008 read /etc/machine-id with size 4096
+16789 16:40:20.167269812 chrome 3008 read /home/dzjp/.config/google-chrome/Loca with size 45056
+16791 16:40:20.167284632 chrome 3008 read /home/dzjp/.config/google-chrome/Loca with size 4096
+16793 16:40:20.167286179 chrome 3008 read /home/dzjp/.config/google-chrome/Loca with size 4096
+16813 16:40:20.167834276 chrome 3008 read /usr/share/locale/locale.alias with size 4096
+16815 16:40:20.167847390 chrome 3008 read /usr/share/locale/locale.alias with size 4096
+17184 16:40:20.172720571 chrome 3008 clone thread 3031
+17249 16:40:20.172851492 chrome 3008 clone thread 3032
+17263 16:40:20.172876177 chrome 3008 clone thread 3033
+17385 16:40:20.172962393 chrome 3008 clone thread 3035
+17419 16:40:20.173011855 chrome 3008 clone thread 3034
+17434 16:40:20.173028549 chrome 3008 clone thread 3038
+17465 16:40:20.173041118 ThreadPoolForeg 3008 clone thread 3036
+17567 16:40:20.173108564 chrome 3008 clone thread 3037
+17634 16:40:20.173144150 ThreadPoolForeg 3008 clone thread 3039
+21745 16:40:20.178112911 chrome 3008 read /run/user/1000/gdm/Xauthority with size 4096
+21747 16:40:20.178119402 chrome 3008 read /run/user/1000/gdm/Xauthority with size 4096
+22183 16:40:20.179688979 chrome 3008 read /usr/lib/x86_64-linux-gnu/libgtk-3.so.0 with size 832
+22203 16:40:20.179735939 chrome 3008 read /usr/lib/x86_64-linux-gnu/libgdk-3.so.0 with size 832
+22223 16:40:20.179776621 chrome 3008 read /usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0 with size 832
+22241 16:40:20.179811849 chrome 3008 read /usr/lib/x86_64-linux-gnu/libXi.so.6 with size 832
+22259 16:40:20.179844117 chrome 3008 read /usr/lib/x86_64-linux-gnu/libcairo-gobject.so.2 with size 832
+22277 16:40:20.179877091 chrome 3008 read /usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0 with size 832
+22295 16:40:20.179912293 chrome 3008 read /usr/lib/x86_64-linux-gnu/libepoxy.so.0 with size 832
+22313 16:40:20.179947777 chrome 3008 read /usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0 with size 832
+22331 16:40:20.179995545 chrome 3008 read /usr/lib/x86_64-linux-gnu/libXinerama.so.1 with size 832
+22349 16:40:20.180026973 chrome 3008 read /usr/lib/x86_64-linux-gnu/libXcursor.so.1 with size 832
+22368 16:40:20.180058854 chrome 3008 read /usr/lib/x86_64-linux-gnu/libwayland-cursor.so.0 with size 832
+22391 16:40:20.180090555 chrome 3008 read /usr/lib/x86_64-linux-gnu/libwayland-egl.so.1 with size 832
+22409 16:40:20.180119287 chrome 3008 read /usr/lib/x86_64-linux-gnu/libwayland-client.so.0 with size 832
+22446 16:40:20.180188332 chrome 3008 read /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0 with size 832
+22527 16:40:20.180320220 chrome 3008 read /usr/lib/x86_64-linux-gnu/libgraphite2.so.3 with size 832
+22580 16:40:20.183799757 chrome 3008 read /usr/share/locale/locale.alias with size 4096
+22582 16:40:20.183807199 chrome 3008 read /usr/share/locale/locale.alias with size 4096
+22628 16:40:20.183967102 chrome 3008 read /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1 with size 832
+22972 16:40:20.184540333 chrome 3008 read /run/user/1000/gdm/Xauthority with size 4096
+22974 16:40:20.184542919 chrome 3008 read /run/user/1000/gdm/Xauthority with size 4096
+22996 16:40:20.184562523 chrome 3008 clone thread 3040
+24393 16:40:20.188724758 chrome 3008 read /etc/gtk-3.0/settings.ini with size 4096
+24395 16:40:20.188730019 chrome 3008 read /etc/gtk-3.0/settings.ini with size 4096
+24535 16:40:20.188983384 chrome 3008 read /usr/lib/x86_64-linux-gnu/gio/modules/giomodule.cache with size 270
+24607 16:40:20.189077748 chrome 3008 read /usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so with size 832
+24651 16:40:20.189132308 chrome 3008 read /usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so with size 832
+24999 16:40:20.190118268 chrome 3008 clone thread 3042
+25023 16:40:20.190187357 chrome 3008 clone thread 3041
+25491 16:40:20.191497112 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk.css with size 8192
+25493 16:40:20.191500195 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk.css with size 8192
+25503 16:40:20.191518699 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-main.css with size 8192
+25505 16:40:20.191520977 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-main.css with size 8192
+25515 16:40:20.191557525 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/public-colors.css with size 8192
+25517 16:40:20.191560434 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/public-colors.css with size 8192
+25525 16:40:20.191640520 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets-borders.css with size 8192
+25529 16:40:20.191652033 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets-borders.css with size 8192
+25531 16:40:20.191653217 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets-borders.css with size 8192
+25587 16:40:20.192416437 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets-assets.css with size 8192
+25589 16:40:20.192423092 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets-assets.css with size 8192
+25591 16:40:20.192424902 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets-assets.css with size 8192
+25593 16:40:20.192427527 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets-assets.css with size 8192
+25609 16:40:20.192901743 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets.css with size 8192
+25611 16:40:20.192908613 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets.css with size 8192
+25613 16:40:20.192910070 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets.css with size 8192
+25619 16:40:20.192929401 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets.css with size 8192
+25621 16:40:20.192931065 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets.css with size 8192
+25623 16:40:20.192933714 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets.css with size 8192
+25625 16:40:20.192936222 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets.css with size 8192
+25627 16:40:20.192966547 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets.css with size 8192
+25629 16:40:20.192968046 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets.css with size 8192
+25631 16:40:20.192970547 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets.css with size 8192
+25633 16:40:20.192973165 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets.css with size 8192
+25635 16:40:20.192975688 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets.css with size 8192
+25637 16:40:20.192978256 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets.css with size 8192
+25639 16:40:20.192980769 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets.css with size 8192
+25641 16:40:20.192983233 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/gtk-widgets.css with size 8192
+25661 16:40:20.193514200 chrome 3008 read /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache with size 1024
+25663 16:40:20.193540121 chrome 3008 read /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache with size 1024
+25665 16:40:20.193559487 chrome 3008 read /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache with size 1024
+25667 16:40:20.193579198 chrome 3008 read /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache with size 1024
+25669 16:40:20.193587707 chrome 3008 read /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache with size 1024
+25766 16:40:20.196253155 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/unity.css with size 8192
+25768 16:40:20.196255270 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/unity.css with size 8192
+25776 16:40:20.196323159 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/gedit.css with size 8192
+25778 16:40:20.196324567 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/gedit.css with size 8192
+25792 16:40:20.196454738 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/nautilus.css with size 8192
+25794 16:40:20.196456370 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/nautilus.css with size 8192
+25811 16:40:20.196563458 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/mozilla.css with size 8192
+25813 16:40:20.196564678 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/mozilla.css with size 8192
+25823 16:40:20.196575002 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/gnome-panel.css with size 8192
+25825 16:40:20.196576144 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/gnome-panel.css with size 8192
+25914 16:40:20.196687493 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/gnome-boxes.css with size 8192
+25916 16:40:20.196688598 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/gnome-boxes.css with size 8192
+25924 16:40:20.196703243 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/gnome-flashback.css with size 8192
+25926 16:40:20.196704223 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/gnome-flashback.css with size 8192
+25934 16:40:20.196747899 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/gnome-terminal.css with size 8192
+25936 16:40:20.196748966 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/gnome-terminal.css with size 8192
+25946 16:40:20.196829558 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/unity-greeter.css with size 8192
+25948 16:40:20.196831047 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/unity-greeter.css with size 8192
+25956 16:40:20.196917539 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/software-center.css with size 8192
+25958 16:40:20.196918779 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/software-center.css with size 8192
+25968 16:40:20.196932114 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/calendar.css with size 8192
+25970 16:40:20.196933291 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/calendar.css with size 8192
+25978 16:40:20.196945513 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/libreoffice.css with size 8192
+25980 16:40:20.196946499 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/libreoffice.css with size 8192
+25988 16:40:20.196970327 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/chromium.css with size 8192
+25990 16:40:20.196971286 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/apps/chromium.css with size 8192
+26203 16:40:20.203068473 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/settings.ini with size 4096
+26205 16:40:20.203072780 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/settings.ini with size 4096
+26275 16:40:20.203159551 chrome 3008 read /usr/share/themes/Default/gtk-3.0/gtk-keys.css with size 8192
+26277 16:40:20.203160906 chrome 3008 read /usr/share/themes/Default/gtk-3.0/gtk-keys.css with size 8192
+26301 16:40:20.203239951 chrome 3008 read /usr/lib/x86_64-linux-gnu/gtk-3.0/modules/libcanberra-gtk-module.so with size 832
+26327 16:40:20.203294336 chrome 3008 read /usr/lib/x86_64-linux-gnu/libcanberra-gtk3.so.0 with size 832
+26345 16:40:20.203373961 chrome 3008 read /usr/lib/x86_64-linux-gnu/libcanberra.so.0 with size 832
+26363 16:40:20.203468282 chrome 3008 read /usr/lib/x86_64-linux-gnu/libvorbisfile.so.3 with size 832
+26381 16:40:20.203497849 chrome 3008 read /usr/lib/x86_64-linux-gnu/libtdb.so.1 with size 832
+26399 16:40:20.203529080 chrome 3008 read /usr/lib/x86_64-linux-gnu/libltdl.so.7 with size 832
+26417 16:40:20.203586377 chrome 3008 read /usr/lib/x86_64-linux-gnu/libvorbis.so.0 with size 832
+26435 16:40:20.203615341 chrome 3008 read /usr/lib/x86_64-linux-gnu/libogg.so.0 with size 832
+26555 16:40:20.204826269 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26557 16:40:20.204836136 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26559 16:40:20.204842023 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26561 16:40:20.204847709 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26563 16:40:20.204853437 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26565 16:40:20.204859239 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26567 16:40:20.204865251 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26569 16:40:20.204871458 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26571 16:40:20.204877296 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26573 16:40:20.204883699 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26575 16:40:20.204890657 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26577 16:40:20.204898711 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26579 16:40:20.204905306 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26581 16:40:20.204911584 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26583 16:40:20.204917575 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26585 16:40:20.204923494 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26587 16:40:20.204929853 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26589 16:40:20.204936524 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26591 16:40:20.204943135 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26593 16:40:20.204949943 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26595 16:40:20.204956890 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26597 16:40:20.204959004 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26605 16:40:20.204965498 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26607 16:40:20.204972542 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26609 16:40:20.204978188 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26611 16:40:20.204983640 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26613 16:40:20.204989108 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26615 16:40:20.204994613 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26617 16:40:20.205000259 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26619 16:40:20.205006100 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26621 16:40:20.205011795 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26623 16:40:20.205017856 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26625 16:40:20.205024487 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26627 16:40:20.205030471 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26629 16:40:20.205036302 chrome 3008 read /usr/share/X11/locale/locale.alias with size 4096
+26637 16:40:20.205046788 chrome 3008 read /usr/share/X11/locale/locale.dir with size 4096
+26639 16:40:20.205053095 chrome 3008 read /usr/share/X11/locale/locale.dir with size 4096
+26641 16:40:20.205058208 chrome 3008 read /usr/share/X11/locale/locale.dir with size 4096
+26643 16:40:20.205063368 chrome 3008 read /usr/share/X11/locale/locale.dir with size 4096
+26645 16:40:20.205068194 chrome 3008 read /usr/share/X11/locale/locale.dir with size 4096
+26647 16:40:20.205074044 chrome 3008 read /usr/share/X11/locale/locale.dir with size 4096
+26649 16:40:20.205079296 chrome 3008 read /usr/share/X11/locale/locale.dir with size 4096
+26651 16:40:20.205084731 chrome 3008 read /usr/share/X11/locale/locale.dir with size 4096
+26653 16:40:20.205090619 chrome 3008 read /usr/share/X11/locale/locale.dir with size 4096
+26663 16:40:20.205102447 chrome 3008 read /usr/share/X11/locale/en_US.UTF-8/XLC_LOCALE with size 4096
+26665 16:40:20.205161316 chrome 3008 read /usr/share/X11/locale/en_US.UTF-8/XLC_LOCALE with size 4096
+26667 16:40:20.205166136 chrome 3008 read /usr/share/X11/locale/en_US.UTF-8/XLC_LOCALE with size 4096
+26782 16:40:20.206230681 chrome 3008 read /dev/urandom with size 16
+26886 16:40:20.208257184 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/assets/button.png with size 65536
+26888 16:40:20.208261568 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/assets/button.png with size 65536
+26988 16:40:20.208365466 chrome 3008 read /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-png.so with size 832
+27211 16:40:20.210877257 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/assets/entry.png with size 65536
+27213 16:40:20.210879658 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/assets/entry.png with size 65536
+27583 16:40:20.225956991 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/assets/button-toolbar.png with size 65536
+27585 16:40:20.225959368 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/assets/button-toolbar.png with size 65536
+27650 16:40:20.226420644 chrome 3008 clone thread 3044
+27668 16:40:20.226466522 chrome 3008 clone thread 3043
+27872 16:40:20.226719865 chrome 3008 read /usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so with size 832
+27971 16:40:20.226870798 chrome 3008 pwrite /run/user/1000/dconf/user with size 1
+28072 16:40:20.227067164 chrome 3008 clone thread 3045
+29800 16:40:20.228494370 chrome 3008 read /opt/google/chrome/WidevineCdm/manifest.json with size 4096
+29802 16:40:20.228497432 chrome 3008 read /opt/google/chrome/WidevineCdm/manifest.json with size 4096
+29820 16:40:20.228534917 chrome 3008 read /home/dzjp/.config/google-chrome/WidevineCdm/latest-component-updated-widevine-cdm with size 4096
+29823 16:40:20.228536199 chrome 3008 read /home/dzjp/.config/google-chrome/WidevineCdm/latest-component-updated-widevine-cdm with size 4096
+29842 16:40:20.228545599 chrome 3008 read /opt/google/chrome/WidevineCdm/manifest.json with size 4096
+29845 16:40:20.228546571 chrome 3008 read /opt/google/chrome/WidevineCdm/manifest.json with size 4096
+29980 16:40:20.228716637 chrome 3008 read /etc/host.conf with size 4096
+29984 16:40:20.228719283 chrome 3008 read /etc/host.conf with size 4096
+30000 16:40:20.228725788 chrome 3008 read /etc/resolv.conf with size 4096
+30004 16:40:20.228728698 chrome 3008 read /etc/resolv.conf with size 4096
+30080 16:40:20.228763910 chrome 3008 read /etc/nsswitch.conf with size 4096
+30085 16:40:20.228765371 chrome 3008 read /etc/nsswitch.conf with size 4096
+30169 16:40:20.228814962 chrome 3008 read /etc/hosts with size 4096
+30171 16:40:20.228816903 chrome 3008 read /etc/hosts with size 4096
+30221 16:40:20.228874374 ThreadPoolForeg 3008 clone thread 3046
+30725 16:40:20.230538512 chrome 3008 clone thread 3047
+30813 16:40:20.230663943 chrome 3008 clone thread 3048
+30856 16:40:20.230711386 chrome 3008 read /home/dzjp/.config/user-dirs.dirs with size 4096
+30858 16:40:20.230716306 chrome 3008 read /home/dzjp/.config/user-dirs.dirs with size 4096
+30866 16:40:20.230723042 chrome 3008 read /home/dzjp/.config/user-dirs.dirs with size 4096
+30868 16:40:20.230724907 chrome 3008 read /home/dzjp/.config/user-dirs.dirs with size 4096
+30893 16:40:20.230758750 chrome 3008 read /lib/x86_64-linux-gnu/libudev.so.1 with size 832
+30968 16:40:20.231003874 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Cras with size 40
+30988 16:40:20.231030304 ThreadPoolForeg 3008 write /home/dzjp/.config/google-chrome/Cras with size 40
+31032 16:40:20.231108409 chrome 3051 clone process 3051
+31077 16:40:20.231219684 chrome 3008 clone thread 3049
+31102 16:40:20.231250181 chrome 3008 clone thread 3050
+31407 16:40:20.233850341 ThreadPoolSingl 3052 clone process 3052
+31476 16:40:20.234125698 chrome 3051 read /lib/x86_64-linux-gnu/libpci.so.3 with size 832
+31514 16:40:20.234184792 chrome 3051 read /lib/x86_64-linux-gnu/libudev.so.1 with size 832
+31538 16:40:20.234222598 chrome 3008 read /home/dzjp/.config/google-chrome/Las with size 4096
+31544 16:40:20.234228762 chrome 3008 read /home/dzjp/.config/google-chrome/Las with size 4096
+31557 16:40:20.234251124 chrome 3008 write /home/dzjp/.config/google-chrome/Las with size 12
+32170 16:40:20.234602439 ThreadPoolSingl 3052 execve to /proc/self/exe
+32415 16:40:20.235037162 chrome 3051 read /sys/class/tty/tty0/active with size 4096
+32417 16:40:20.235039416 chrome 3051 read /sys/class/tty/tty0/active with size 4096
+32430 16:40:20.235125238 chrome 3051 clone thread 3053
+32448 16:40:20.235159134 chrome 3051 read /run/user/1000/gdm/Xauthority with size 4096
+32454 16:40:20.235166074 chrome 3051 read /run/user/1000/gdm/Xauthority with size 4096
+32531 16:40:20.235818487 chrome 3008 read /home/dzjp/.config/google-chrome/Default/Preferences with size 20480
+32540 16:40:20.235825934 chrome 3008 read /home/dzjp/.config/google-chrome/Default/Preferences with size 4096
+32543 16:40:20.235827105 chrome 3008 read /home/dzjp/.config/google-chrome/Default/Preferences with size 4096
+32617 16:40:20.235867287 exe 3052 read /lib/x86_64-linux-gnu/libdl.so.2 with size 832
+32639 16:40:20.235896271 exe 3052 read /lib/x86_64-linux-gnu/libpthread.so.0 with size 832
+32659 16:40:20.235924170 exe 3052 read /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 with size 832
+32677 16:40:20.235950407 exe 3052 read /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0 with size 832
+32699 16:40:20.235981801 exe 3052 read /usr/lib/x86_64-linux-gnu/libnss3.so with size 832
+32719 16:40:20.236006814 exe 3052 read /usr/lib/x86_64-linux-gnu/libnssutil3.so with size 832
+32737 16:40:20.236030304 exe 3052 read /usr/lib/x86_64-linux-gnu/libsmime3.so with size 832
+32757 16:40:20.236055355 exe 3052 read /usr/lib/x86_64-linux-gnu/libnspr4.so with size 832
+32777 16:40:20.236081938 exe 3052 read /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0 with size 832
+32795 16:40:20.236106305 exe 3052 read /usr/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0 with size 832
+32824 16:40:20.236133178 exe 3052 read /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0 with size 832
+32826 16:40:20.236133652 chrome 3008 read /home/dzjp/.config/google-chrome/Default/Secur with size 4096
+32831 16:40:20.236135086 chrome 3008 read /home/dzjp/.config/google-chrome/Default/Secur with size 4096
+32853 16:40:20.236163654 exe 3052 read /usr/lib/x86_64-linux-gnu/libcups.so.2 with size 832
+32871 16:40:20.236189257 exe 3052 read /usr/lib/x86_64-linux-gnu/libdrm.so.2 with size 832
+32892 16:40:20.236214349 exe 3052 read /lib/x86_64-linux-gnu/libdbus-1.so.3 with size 832
+32911 16:40:20.236239758 exe 3052 read /lib/x86_64-linux-gnu/libexpat.so.1 with size 832
+32929 16:40:20.236271699 exe 3052 read /usr/lib/x86_64-linux-gnu/libxcb.so.1 with size 832
+32947 16:40:20.236298211 exe 3052 read /lib/x86_64-linux-gnu/libm.so.6 with size 832
+32965 16:40:20.236324302 exe 3052 read /usr/lib/x86_64-linux-gnu/libX11.so.6 with size 832
+32983 16:40:20.236350901 exe 3052 read /usr/lib/x86_64-linux-gnu/libXcomposite.so.1 with size 832
+33003 16:40:20.236375964 exe 3052 read /usr/lib/x86_64-linux-gnu/libXdamage.so.1 with size 832
+33021 16:40:20.236398814 exe 3052 read /usr/lib/x86_64-linux-gnu/libXext.so.6 with size 832
+33039 16:40:20.236421993 exe 3052 read /usr/lib/x86_64-linux-gnu/libXfixes.so.3 with size 832
+33057 16:40:20.236446339 exe 3052 read /usr/lib/x86_64-linux-gnu/libXrandr.so.2 with size 832
+33075 16:40:20.236469836 exe 3052 read /usr/lib/x86_64-linux-gnu/libxkbcommon.so.0 with size 832
+33093 16:40:20.236493793 exe 3052 read /usr/lib/x86_64-linux-gnu/libgbm.so.1 with size 832
+33113 16:40:20.236518277 exe 3052 read /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0 with size 832
+33131 16:40:20.236542846 exe 3052 read /usr/lib/x86_64-linux-gnu/libcairo.so.2 with size 832
+33153 16:40:20.236569726 exe 3052 read /usr/lib/x86_64-linux-gnu/libasound.so.2 with size 832
+33173 16:40:20.236595424 exe 3052 read /usr/lib/x86_64-linux-gnu/libatspi.so.0 with size 832
+33193 16:40:20.236621486 exe 3052 read /usr/lib/x86_64-linux-gnu/libxshmfence.so.1 with size 832
+33211 16:40:20.236644572 exe 3052 read /lib/x86_64-linux-gnu/libgcc_s.so.1 with size 832
+33231 16:40:20.236671147 exe 3052 read /lib/x86_64-linux-gnu/libc.so.6 with size 832
+33251 16:40:20.236703613 exe 3052 read /usr/lib/x86_64-linux-gnu/libffi.so.6 with size 832
+33269 16:40:20.236730712 exe 3052 read /lib/x86_64-linux-gnu/libpcre.so.3 with size 832
+33289 16:40:20.236760260 exe 3052 read /usr/lib/x86_64-linux-gnu/libplc4.so with size 832
+33307 16:40:20.236783281 exe 3052 read /usr/lib/x86_64-linux-gnu/libplds4.so with size 832
+33327 16:40:20.236816035 exe 3052 read /lib/x86_64-linux-gnu/librt.so.1 with size 832
+33345 16:40:20.236845426 exe 3052 read /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0 with size 832
+33363 16:40:20.236871106 exe 3052 read /lib/x86_64-linux-gnu/libz.so.1 with size 832
+33383 16:40:20.236898895 exe 3052 read /lib/x86_64-linux-gnu/libselinux.so.1 with size 832
+33403 16:40:20.236927395 exe 3052 read /lib/x86_64-linux-gnu/libresolv.so.2 with size 832
+33425 16:40:20.236954595 exe 3052 read /lib/x86_64-linux-gnu/libmount.so.1 with size 832
+33451 16:40:20.236987344 exe 3052 read /usr/lib/x86_64-linux-gnu/libgssapi_krb5.so.2 with size 832
+33469 16:40:20.237013222 exe 3052 read /usr/lib/x86_64-linux-gnu/libgnutls.so.30 with size 832
+33489 16:40:20.237042448 exe 3052 read /usr/lib/x86_64-linux-gnu/libavahi-common.so.3 with size 832
+33507 16:40:20.237067627 exe 3052 read /usr/lib/x86_64-linux-gnu/libavahi-client.so.3 with size 832
+33527 16:40:20.237095510 exe 3052 read /lib/x86_64-linux-gnu/libsystemd.so.0 with size 832
+33547 16:40:20.237127670 exe 3052 read /usr/lib/x86_64-linux-gnu/libXau.so.6 with size 832
+33567 16:40:20.237155801 exe 3052 read /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 with size 832
+33585 16:40:20.237185593 exe 3052 read /usr/lib/x86_64-linux-gnu/libXrender.so.1 with size 832
+33603 16:40:20.237212365 exe 3052 read /usr/lib/x86_64-linux-gnu/libwayland-server.so.0 with size 832
+33621 16:40:20.237240319 exe 3052 read /usr/lib/x86_64-linux-gnu/libthai.so.0 with size 832
+33639 16:40:20.237268626 exe 3052 read /usr/lib/x86_64-linux-gnu/libpixman-1.so.0 with size 832
+33657 16:40:20.237296298 exe 3052 read /usr/lib/x86_64-linux-gnu/libfontconfig.so.1 with size 832
+33677 16:40:20.237325149 exe 3052 read /usr/lib/x86_64-linux-gnu/libfreetype.so.6 with size 832
+33695 16:40:20.237350801 exe 3052 read /usr/lib/x86_64-linux-gnu/libpng16.so.16 with size 832
+33715 16:40:20.237376269 exe 3052 read /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0 with size 832
+33733 16:40:20.237400886 exe 3052 read /usr/lib/x86_64-linux-gnu/libxcb-render.so.0 with size 832
+33817 16:40:20.237567603 exe 3052 read /lib/x86_64-linux-gnu/libblkid.so.1 with size 832
+33854 16:40:20.237617914 exe 3052 read /usr/lib/x86_64-linux-gnu/libkrb5.so.3 with size 832
+33936 16:40:20.237769581 exe 3052 read /usr/lib/x86_64-linux-gnu/libk5crypto.so.3 with size 832
+33965 16:40:20.237802418 exe 3052 read /lib/x86_64-linux-gnu/libcom_err.so.2 with size 832
+33985 16:40:20.237829982 exe 3052 read /usr/lib/x86_64-linux-gnu/libkrb5support.so.0 with size 832
+34003 16:40:20.237859028 exe 3052 read /usr/lib/x86_64-linux-gnu/libp11-kit.so.0 with size 832
+34023 16:40:20.237889362 exe 3052 read /usr/lib/x86_64-linux-gnu/libidn2.so.0 with size 832
+34043 16:40:20.237918605 exe 3052 read /usr/lib/x86_64-linux-gnu/libunistring.so.2 with size 832
+34061 16:40:20.237947801 exe 3052 read /usr/lib/x86_64-linux-gnu/libtasn1.so.6 with size 832
+34079 16:40:20.237975769 exe 3052 read /usr/lib/x86_64-linux-gnu/libnettle.so.6 with size 832
+34097 16:40:20.238006140 exe 3052 read /usr/lib/x86_64-linux-gnu/libhogweed.so.4 with size 832
+34115 16:40:20.238032562 exe 3052 read /usr/lib/x86_64-linux-gnu/libgmp.so.10 with size 832
+34133 16:40:20.238064461 exe 3052 read /lib/x86_64-linux-gnu/liblzma.so.5 with size 832
+34153 16:40:20.238094849 exe 3052 read /usr/lib/x86_64-linux-gnu/liblz4.so.1 with size 832
+34171 16:40:20.238125123 exe 3052 read /lib/x86_64-linux-gnu/libgcrypt.so.20 with size 832
+34191 16:40:20.238182180 exe 3052 read /lib/x86_64-linux-gnu/libbsd.so.0 with size 832
+34214 16:40:20.238218417 exe 3052 read /usr/lib/x86_64-linux-gnu/libdatrie.so.1 with size 832
+34262 16:40:20.238270513 chrome 3054 clone process 3054
+34401 16:40:20.238424380 exe 3052 read /lib/x86_64-linux-gnu/libuuid.so.1 with size 832
+34505 16:40:20.238577953 exe 3052 read /lib/x86_64-linux-gnu/libkeyutils.so.1 with size 832
+34561 16:40:20.238631103 exe 3052 read /lib/x86_64-linux-gnu/libgpg-error.so.0 with size 832
+35134 16:40:20.239952099 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/History with size 100
+35170 16:40:20.240011163 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/History with size 4096
+35192 16:40:20.240039662 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/History with size 4096
+35210 16:40:20.240084260 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/History with size 4096
+35278 16:40:20.240181659 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/History with size 16
+35301 16:40:20.240200340 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/History with size 16
+35309 16:40:20.240205050 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/History with size 4096
+35311 16:40:20.240208863 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/History with size 4096
+35351 16:40:20.240259761 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/History with size 16
+35432 16:40:20.240348695 chrome 3008 read /home/dzjp/.config/google-chrome/Default/Bookmarks with size 4096
+35435 16:40:20.240349534 chrome 3008 read /home/dzjp/.config/google-chrome/Default/Visite with size 4096
+35440 16:40:20.240353198 chrome 3008 read /home/dzjp/.config/google-chrome/Default/Bookmarks with size 4096
+35534 16:40:20.240544921 chrome 3008 read /home/dzjp/.config/google-chrome/Default/Visite with size 126976
+35543 16:40:20.240580704 chrome 3054 clone thread 3058
+35627 16:40:20.240749150 chrome 3054 clone thread 3057
+35647 16:40:20.240794511 chrome 3008 pread /home/dzjp/.cache/google-chrome/Default/Cod with size 24
+35777 16:40:20.240914309 ThreadPoolForeg 3054 clone thread 3059
+35831 16:40:20.240964412 chrome 3054 clone thread 3056
+35863 16:40:20.241001701 chrome 3008 pread /home/dzjp/.cache/google-chrome/Default/Cod with size 24
+35961 16:40:20.241115832 ThreadPoolForeg 3008 read /dev/urandom with size 256
+35979 16:40:20.241130021 chrome 3054 clone thread 3055
+36059 16:40:20.241211086 ThreadPoolForeg 3008 clone thread 3060
+36202 16:40:20.241322868 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/History with size 100
+36227 16:40:20.241336821 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/History with size 4096
+36535 16:40:20.241635958 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/Favicons with size 100
+36571 16:40:20.241659431 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/Favicons with size 2048
+36616 16:40:20.241695028 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/We with size 100
+36746 16:40:20.241741414 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/We with size 2048
+36761 16:40:20.241758126 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/We with size 2048
+36806 16:40:20.241799129 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/We with size 2048
+36945 16:40:20.241843571 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/We with size 2048
+37059 16:40:20.241879745 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/We with size 2048
+37115 16:40:20.241906550 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/We with size 2048
+37292 16:40:20.241964728 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/Favicons with size 2048
+37308 16:40:20.241969541 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/Favicons with size 2048
+37359 16:40:20.241983624 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/We with size 2048
+37362 16:40:20.241985746 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/We with size 2048
+39114 16:40:20.242879616 chrome 3051 read /run/user/1000/gdm/Xauthority with size 4096
+39116 16:40:20.242882316 chrome 3051 read /run/user/1000/gdm/Xauthority with size 4096
+39212 16:40:20.243236595 chrome 3051 read /opt/google/chrome/libGLESv2.so with size 832
+39469 16:40:20.243866546 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sit with size 8192
+39471 16:40:20.243869483 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sit with size 8192
+39479 16:40:20.243877365 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sit with size 32768
+39493 16:40:20.243930126 ThreadPoolForeg 3008 write /home/dzjp/.config/google-chrome/Default/Sit with size 132
+39547 16:40:20.244036755 ThreadPoolForeg 3008 write /home/dzjp/.config/google-chrome/Default/Sit with size 46
+39549 16:40:20.244040359 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sit with size 32768
+39557 16:40:20.244063290 ThreadPoolForeg 3008 write /home/dzjp/.config/google-chrome/Default/Sit with size 127
+39816 16:40:20.244730996 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/QuotaManager with size 100
+39833 16:40:20.244766130 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/QuotaManager with size 4096
+39871 16:40:20.244852028 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/QuotaManager with size 4096
+39875 16:40:20.244855716 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/QuotaManager with size 4096
+39931 16:40:20.244922771 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Syn with size 8192
+39933 16:40:20.244924671 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Syn with size 8192
+39941 16:40:20.244932936 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Syn with size 32768
+39957 16:40:20.244960048 ThreadPoolForeg 3008 write /home/dzjp/.config/google-chrome/Default/Syn with size 120
+40048 16:40:20.245034072 ThreadPoolForeg 3008 write /home/dzjp/.config/google-chrome/Default/Syn with size 46
+40050 16:40:20.245036963 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Syn with size 32768
+40073 16:40:20.245059325 ThreadPoolForeg 3008 write /home/dzjp/.config/google-chrome/Default/Syn with size 115
+40171 16:40:20.245772813 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/Logi with size 100
+40235 16:40:20.245811032 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/Logi with size 100
+40289 16:40:20.245849370 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/Logi with size 2048
+40363 16:40:20.245885706 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/Logi with size 2048
+40369 16:40:20.245912458 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/Logi with size 2048
+40491 16:40:20.245983958 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/Logi with size 2048
+40630 16:40:20.246019543 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/Logi with size 2048
+40740 16:40:20.246048299 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/Logi with size 2048
+40756 16:40:20.246055395 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/Logi with size 2048
+40983 16:40:20.246146847 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/Logi with size 2048
+41208 16:40:20.246231813 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/Logi with size 2048
+42147 16:40:20.246533943 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/Logi with size 2048
+42149 16:40:20.246536589 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/Logi with size 2048
+42159 16:40:20.246563557 ThreadPoolForeg 3008 pread /home/dzjp/.config/google-chrome/Default/Logi with size 2048
+42561 16:40:20.248506425 ThreadPoolForeg 3008 read /opt/google/chrome/default_apps/external_extensions.json with size 4096
+42563 16:40:20.248510315 ThreadPoolForeg 3008 read /opt/google/chrome/default_apps/external_extensions.json with size 4096
+42629 16:40:20.248756647 chrome 3051 read /opt/google/chrome/libEGL.so with size 832
+42691 16:40:20.248965806 chrome 3051 read /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1 with size 832
+42721 16:40:20.249058450 chrome 3051 read /run/user/1000/gdm/Xauthority with size 4096
+42723 16:40:20.249062360 chrome 3051 read /run/user/1000/gdm/Xauthority with size 4096
+42743 16:40:20.249086073 chrome 3008 clone thread 3061
+42866 16:40:20.249282328 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+42945 16:40:20.249537662 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 262512
+43167 16:40:20.249726300 chrome 3008 write /home/dzjp/.config/google-chrome/.com.google.Chrome.aXIiwo with size 48962
+43195 16:40:20.249765489 ThreadPoolForeg 3008 read /opt/google/chrome/WidevineCdm/manifest.json with size 4096
+43197 16:40:20.249767635 ThreadPoolForeg 3008 read /opt/google/chrome/WidevineCdm/manifest.json with size 4096
+43308 16:40:20.249850342 chrome 3008 clone thread 3062
+43321 16:40:20.249853964 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Subresourc with size 4096
+43329 16:40:20.249857878 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Subresourc with size 4096
+43360 16:40:20.249871736 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Subresourc with size 4096
+43366 16:40:20.249872787 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Subresourc with size 4096
+43389 16:40:20.249883108 chrome 3008 read /home/dzjp/.config/google-chrome/Floc/1.0.6/manifest.json with size 4096
+43394 16:40:20.249884751 chrome 3008 read /home/dzjp/.config/google-chrome/Floc/1.0.6/manifest.json with size 4096
+43423 16:40:20.249899467 chrome 3008 read /home/dzjp/.config/google-chrome/Floc/1.0.6/manifest.fingerprint with size 4096
+43427 16:40:20.249900539 chrome 3008 read /home/dzjp/.config/google-chrome/Floc/1.0.6/manifest.fingerprint with size 4096
+43438 16:40:20.249902646 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/OnDeviceHeadSuggestModel/20211006.400718945/manifest.json with size 4096
+43442 16:40:20.249904907 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/OnDeviceHeadSuggestModel/20211006.400718945/manifest.json with size 4096
+43471 16:40:20.249919444 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/OnDeviceHeadSuggestModel/20211006.400718945/manifest.fingerprint with size 4096
+43474 16:40:20.249920622 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/OnDeviceHeadSuggestModel/20211006.400718945/manifest.fingerprint with size 4096
+43535 16:40:20.249969699 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/OptimizationHints/302/manifest.json with size 4096
+43541 16:40:20.249971632 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/OptimizationHints/302/manifest.json with size 4096
+43547 16:40:20.249972842 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/SSLErrorAssistant/7/manifest.json with size 4096
+43550 16:40:20.249974353 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/SSLErrorAssistant/7/manifest.json with size 4096
+43579 16:40:20.249995117 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/SSLErrorAssistant/7/manifest.fingerprint with size 4096
+43582 16:40:20.249995827 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/OptimizationHints/302/manifest.fingerprint with size 4096
+43584 16:40:20.249996196 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/SSLErrorAssistant/7/manifest.fingerprint with size 4096
+43587 16:40:20.249996904 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/OptimizationHints/302/manifest.fingerprint with size 4096
+43645 16:40:20.250022609 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/FileTypePolicies/45/manifest.json with size 4096
+43648 16:40:20.250023616 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/FileTypePolicies/45/manifest.json with size 4096
+43659 16:40:20.250026775 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/CertificateRevocation/6911/manifest.json with size 4096
+43663 16:40:20.250027788 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/CertificateRevocation/6911/manifest.json with size 4096
+43694 16:40:20.250037255 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/FileTypePolicies/45/manifest.fingerprint with size 4096
+43697 16:40:20.250038329 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/FileTypePolicies/45/manifest.fingerprint with size 4096
+43710 16:40:20.250040808 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/CertificateRevocation/6911/manifest.fingerprint with size 4096
+43715 16:40:20.250041807 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/CertificateRevocation/6911/manifest.fingerprint with size 4096
+43745 16:40:20.250051694 ThreadPoolForeg 3008 read /opt/google/chrome/MEIPreload/manifest.json with size 4096
+43748 16:40:20.250053056 ThreadPoolForeg 3008 read /opt/google/chrome/MEIPreload/manifest.json with size 4096
+43787 16:40:20.250114370 chrome 3008 read /home/dzjp/.config/google-chrome/OriginTrials/1.0.0.9/manifest.json with size 4096
+43791 16:40:20.250116082 chrome 3008 read /home/dzjp/.config/google-chrome/OriginTrials/1.0.0.9/manifest.json with size 4096
+43826 16:40:20.250169817 chrome 3008 read /home/dzjp/.config/google-chrome/OriginTrials/1.0.0.9/manifest.fingerprint with size 4096
+43829 16:40:20.250171299 chrome 3008 read /home/dzjp/.config/google-chrome/OriginTrials/1.0.0.9/manifest.fingerprint with size 4096
+43841 16:40:20.250176024 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/MEIPreload/1.0.6.0/manifest.json with size 4096
+43843 16:40:20.250177565 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/MEIPreload/1.0.6.0/manifest.json with size 4096
+43862 16:40:20.250185626 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/PKIMetadata/47/manifest.json with size 4096
+43865 16:40:20.250187272 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/PKIMetadata/47/manifest.json with size 4096
+43876 16:40:20.250191379 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/MEIPreload/1.0.6.0/manifest.fingerprint with size 4096
+43878 16:40:20.250192317 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/MEIPreload/1.0.6.0/manifest.fingerprint with size 4096
+43896 16:40:20.250202292 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/PKIMetadata/47/manifest.fingerprint with size 4096
+43900 16:40:20.250203461 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/PKIMetadata/47/manifest.fingerprint with size 4096
+43934 16:40:20.250219128 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Crow with size 4096
+43938 16:40:20.250220373 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Crow with size 4096
+43974 16:40:20.250231776 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/hyphen-data/97.0.4668.0/manifest.json with size 4096
+43975 16:40:20.250232185 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/pnacl/0.57.44.2492/manifest.json with size 4096
+43979 16:40:20.250232699 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Crow with size 4096
+43980 16:40:20.250232753 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/hyphen-data/97.0.4668.0/manifest.json with size 4096
+43986 16:40:20.250233763 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Crow with size 4096
+43988 16:40:20.250234139 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/pnacl/0.57.44.2492/manifest.json with size 4096
+44008 16:40:20.250242540 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/hyphen-data/97.0.4668.0/manifest.fingerprint with size 4096
+44011 16:40:20.250243538 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/hyphen-data/97.0.4668.0/manifest.fingerprint with size 4096
+44047 16:40:20.250256062 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_pnacl_json with size 4096
+44051 16:40:20.250257278 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_pnacl_json with size 4096
+44068 16:40:20.250260328 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/DesktopSharingHub/20210813.1/manifest.json with size 4096
+44071 16:40:20.250261460 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/DesktopSharingHub/20210813.1/manifest.json with size 4096
+44085 16:40:20.250267791 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/ZxcvbnData/1/manifest.json with size 4096
+44089 16:40:20.250268770 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/ZxcvbnData/1/manifest.json with size 4096
+44103 16:40:20.250275601 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/pnacl/0.57.44.2492/manifest.fingerprint with size 4096
+44107 16:40:20.250277056 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/pnacl/0.57.44.2492/manifest.fingerprint with size 4096
+44117 16:40:20.250278897 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/DesktopSharingHub/20210813.1/manifest.fingerprint with size 4096
+44120 16:40:20.250279960 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/DesktopSharingHub/20210813.1/manifest.fingerprint with size 4096
+44192 16:40:20.250298915 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/ZxcvbnData/1/manifest.fingerprint with size 4096
+44194 16:40:20.250299989 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/ZxcvbnData/1/manifest.fingerprint with size 4096
+44222 16:40:20.250307576 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/AutofillRegex/2021.8.17.1300/manifest.json with size 4096
+44223 16:40:20.250307759 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/AutofillStates/2020.11.2.164946/manifest.json with size 4096
+44226 16:40:20.250308664 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/AutofillRegex/2021.8.17.1300/manifest.json with size 4096
+44229 16:40:20.250309074 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/AutofillStates/2020.11.2.164946/manifest.json with size 4096
+44258 16:40:20.250321642 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/AutofillRegex/2021.8.17.1300/manifest.fingerprint with size 4096
+44262 16:40:20.250322971 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/AutofillRegex/2021.8.17.1300/manifest.fingerprint with size 4096
+44303 16:40:20.250344648 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/ClientSidePhishing/25/manifest.json with size 4096
+44305 16:40:20.250345837 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/ClientSidePhishing/25/manifest.json with size 4096
+44326 16:40:20.250356890 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/ClientSidePhishing/25/manifest.fingerprint with size 4096
+44330 16:40:20.250358033 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/ClientSidePhishing/25/manifest.fingerprint with size 4096
+44351 16:40:20.250373510 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616779760371 with size 8
+44357 16:40:20.250376669 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616779760371 with size 1024
+44360 16:40:20.250378649 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616779760371 with size 251
+44362 16:40:20.250379247 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616779760371 with size 228
+44409 16:40:20.250403589 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616779903686 with size 8
+44417 16:40:20.250408953 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616779903686 with size 1024
+44421 16:40:20.250411348 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616779903686 with size 945
+44426 16:40:20.250413552 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616779903686 with size 1934
+44430 16:40:20.250415468 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616779903686 with size 1981
+44433 16:40:20.250416588 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616779903686 with size 95
+44473 16:40:20.250432314 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616779760371 with size 8
+44478 16:40:20.250433710 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616779760371 with size 1024
+44487 16:40:20.250438246 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616779760371 with size 251
+44490 16:40:20.250439015 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616779760371 with size 228
+44493 16:40:20.250440228 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616779760371 with size 1024
+44537 16:40:20.250470473 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616779903686 with size 8
+44540 16:40:20.250472303 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616779903686 with size 1024
+44543 16:40:20.250473916 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616779903686 with size 945
+44545 16:40:20.250475315 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616779903686 with size 1934
+44547 16:40:20.250476769 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616779903686 with size 1981
+44550 16:40:20.250477718 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616779903686 with size 95
+44554 16:40:20.250479250 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616779903686 with size 2048
+44844 16:40:20.250676841 chrome 3008 clone thread 3071
+44900 16:40:20.250701210 chrome 3008 read /run/user/1000/gdm/Xauthority with size 4096
+44905 16:40:20.250703899 chrome 3008 read /run/user/1000/gdm/Xauthority with size 4096
+44932 16:40:20.250712078 chrome 3008 clone thread 3063
+44985 16:40:20.250730679 ThreadPoolForeg 3008 clone thread 3066
+45131 16:40:20.250792121 chrome 3008 read /home/dzjp/.config/google-chrome/SafetyTips/2713/manifest.json with size 4096
+45143 16:40:20.250797035 chrome 3008 read /home/dzjp/.config/google-chrome/SafetyTips/2713/manifest.json with size 4096
+45151 16:40:20.250799227 chrome 3008 clone thread 3068
+45223 16:40:20.250834592 chrome 3008 read /home/dzjp/.config/google-chrome/SafetyTips/2713/manifest.fingerprint with size 4096
+45232 16:40:20.250837966 chrome 3008 read /home/dzjp/.config/google-chrome/SafetyTips/2713/manifest.fingerprint with size 4096
+45270 16:40:20.250864688 chrome 3008 clone thread 3067
+45472 16:40:20.250967693 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/AutofillStates/2020.11.2.164946/manifest.fingerprint with size 4096
+45475 16:40:20.250971477 ThreadPoolForeg 3008 read /home/dzjp/.config/google-chrome/AutofillStates/2020.11.2.164946/manifest.fingerprint with size 4096
+45563 16:40:20.251080078 chrome 3051 read /usr/lib/x86_64-linux-gnu/libGL.so.1 with size 832
+45612 16:40:20.251122906 chrome 3051 read /usr/lib/x86_64-linux-gnu/libGLX.so.0 with size 832
+45658 16:40:20.251157344 chrome 3051 read /usr/lib/x86_64-linux-gnu/libGLdispatch.so.0 with size 832
+45700 16:40:20.251193821 chrome 3008 read /home/dzjp/.config/google-chrome/TrustTokenKeyCommitments/2021.10.12.2/manifest.json with size 4096
+45703 16:40:20.251195680 chrome 3008 read /home/dzjp/.config/google-chrome/TrustTokenKeyCommitments/2021.10.12.2/manifest.json with size 4096
+45731 16:40:20.251218040 chrome 3008 read /home/dzjp/.config/google-chrome/TrustTokenKeyCommitments/2021.10.12.2/manifest.fingerprint with size 4096
+45733 16:40:20.251219170 chrome 3008 read /home/dzjp/.config/google-chrome/TrustTokenKeyCommitments/2021.10.12.2/manifest.fingerprint with size 4096
+45787 16:40:20.251330309 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/GPUCache/data_0 with size 8192
+45801 16:40:20.251336728 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/GPUCache/data_0 with size 8192
+45812 16:40:20.251342735 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/GPUCache/data_1 with size 8192
+45823 16:40:20.251350232 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/GPUCache/data_2 with size 8192
+45834 16:40:20.251357160 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/GPUCache/data_3 with size 8192
+45838 16:40:20.251360751 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/GPUCache/data_1 with size 512
+45849 16:40:20.251379210 chrome 3008 clone thread 3064
+45883 16:40:20.251416338 chrome 3008 clone thread 3069
+45993 16:40:20.251500841 chrome 3008 clone thread 3070
+46096 16:40:20.251605457 chrome 3008 clone thread 3065
+46450 16:40:20.251913210 chrome 3051 read /usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0 with size 832
+46490 16:40:20.251952020 chrome 3051 read /usr/lib/x86_64-linux-gnu/libglapi.so.0 with size 832
+46528 16:40:20.251987486 chrome 3051 read /usr/lib/x86_64-linux-gnu/libxcb-glx.so.0 with size 832
+46562 16:40:20.252018952 chrome 3051 read /usr/lib/x86_64-linux-gnu/libxcb-dri2.so.0 with size 832
+46595 16:40:20.252049000 chrome 3051 read /usr/lib/x86_64-linux-gnu/libXxf86vm.so.1 with size 832
+46629 16:40:20.252079137 chrome 3051 read /usr/lib/x86_64-linux-gnu/libxcb-dri3.so.0 with size 832
+46666 16:40:20.252108618 chrome 3051 read /usr/lib/x86_64-linux-gnu/libxcb-present.so.0 with size 832
+46692 16:40:20.252135602 chrome 3051 read /usr/lib/x86_64-linux-gnu/libxcb-sync.so.1 with size 832
+49628 16:40:20.261933087 exe 3052 read /etc/localtime with size 4096
+49632 16:40:20.261937129 exe 3052 read /etc/localtime with size 4096
+49672 16:40:20.262110979 exe 3052 read /usr/share/locale/locale.alias with size 4096
+49674 16:40:20.262127476 exe 3052 read /usr/share/locale/locale.alias with size 4096
+49838 16:40:20.263018807 chrome 3052 clone thread 3072
+49875 16:40:20.263085812 chrome 3052 clone thread 3073
+49981 16:40:20.263157733 chrome 3052 clone thread 3074
+50126 16:40:20.263344453 ThreadPoolForeg 3052 clone thread 3075
+50904 16:40:20.264037339 ThreadPoolForeg 3052 clone thread 3077
+51032 16:40:20.264147590 chrome 3052 read /etc/host.conf with size 4096
+51034 16:40:20.264151027 chrome 3052 read /etc/host.conf with size 4096
+51044 16:40:20.264164386 chrome 3052 read /etc/resolv.conf with size 4096
+51046 16:40:20.264167871 chrome 3052 read /etc/resolv.conf with size 4096
+51062 16:40:20.264204168 chrome 3052 read /etc/nsswitch.conf with size 4096
+51064 16:40:20.264205700 chrome 3052 read /etc/nsswitch.conf with size 4096
+51094 16:40:20.264246501 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+51098 16:40:20.264248262 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+51106 16:40:20.264280000 ThreadPoolForeg 3052 clone thread 3078
+51511 16:40:20.265327596 chrome 3052 pread /home/dzjp/.config/google-chrome/Default/Trus with size 100
+51563 16:40:20.265380901 chrome 3052 pread /home/dzjp/.config/google-chrome/Default/Trus with size 4096
+51807 16:40:20.265608198 chrome 3052 read /home/dzjp/.config/google-chrome/Default/TransportSecurity with size 4096
+51815 16:40:20.265614893 chrome 3052 read /home/dzjp/.config/google-chrome/Default/TransportSecurity with size 4096
+51844 16:40:20.265629572 chrome 3052 read /home/dzjp/.config/google-chrome/Default/Networ with size 4096
+51849 16:40:20.265630947 chrome 3052 read /home/dzjp/.config/google-chrome/Default/Networ with size 4096
+51851 16:40:20.265632108 chrome 3052 read /home/dzjp/.config/google-chrome/Default/Networ with size 4096
+51974 16:40:20.265764836 chrome 3052 pread /home/dzjp/.config/google-chrome/Default/Cookies with size 100
+51990 16:40:20.265794405 chrome 3052 pread /home/dzjp/.config/google-chrome/Default/Cookies with size 4096
+52006 16:40:20.265858372 chrome 3052 pread /home/dzjp/.config/google-chrome/Default/Cookies with size 16
+52022 16:40:20.265874888 chrome 3052 pread /home/dzjp/.config/google-chrome/Default/Cookies with size 16
+52032 16:40:20.265880285 chrome 3052 pread /home/dzjp/.config/google-chrome/Default/Cookies with size 4096
+52034 16:40:20.265883121 chrome 3052 pread /home/dzjp/.config/google-chrome/Default/Cookies with size 4096
+52058 16:40:20.265910810 chrome 3052 pread /home/dzjp/.config/google-chrome/Default/Cookies with size 16
+52069 16:40:20.265917985 ThreadPoolForeg 3052 clone thread 3076
+52084 16:40:20.265927752 chrome 3052 pread /home/dzjp/.config/google-chrome/Default/Cookies with size 16
+52354 16:40:20.325527145 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+52360 16:40:20.325562663 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+52369 16:40:20.325594531 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+52377 16:40:20.325623147 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+52387 16:40:20.325652971 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+52389 16:40:20.325683630 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+52406 16:40:20.325732082 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+52418 16:40:20.325750413 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+52431 16:40:20.325765560 chrome 3051 read /usr/share/locale/locale.alias with size 4096
+52433 16:40:20.325771854 chrome 3051 read /usr/share/locale/locale.alias with size 4096
+53162 16:40:20.326317594 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+53166 16:40:20.326346579 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+53168 16:40:20.326376822 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+53178 16:40:20.326405096 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+53186 16:40:20.326435621 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+53196 16:40:20.326466438 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+53198 16:40:20.326502545 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+53200 16:40:20.326520662 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+53554 16:40:20.326745596 chrome 3051 read /usr/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so with size 832
+53584 16:40:20.326799671 chrome 3051 read /usr/lib/x86_64-linux-gnu/libLLVM-10.so.1 with size 832
+53611 16:40:20.326835671 chrome 3051 read /usr/lib/x86_64-linux-gnu/libzstd.so.1 with size 832
+53640 16:40:20.326867247 chrome 3051 read /usr/lib/x86_64-linux-gnu/libsensors.so.4 with size 832
+53658 16:40:20.326898121 chrome 3051 read /usr/lib/x86_64-linux-gnu/libdrm_radeon.so.1 with size 832
+53676 16:40:20.326925562 chrome 3051 read /usr/lib/x86_64-linux-gnu/libelf.so.1 with size 832
+53705 16:40:20.326953989 chrome 3051 read /usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1 with size 832
+53734 16:40:20.326983883 chrome 3051 read /usr/lib/x86_64-linux-gnu/libdrm_nouveau.so.2 with size 832
+53752 16:40:20.327011308 chrome 3051 read /usr/lib/x86_64-linux-gnu/libstdc++.so.6 with size 832
+53812 16:40:20.327072386 chrome 3051 read /usr/lib/x86_64-linux-gnu/libedit.so.2 with size 832
+53838 16:40:20.327104919 chrome 3051 read /lib/x86_64-linux-gnu/libtinfo.so.5 with size 832
+54695 16:40:20.328489821 chrome 3008 read /usr/share/icons/DMZ-White/cursors/left_ptr with size 12288
+54697 16:40:20.328493085 chrome 3008 read /usr/share/icons/DMZ-White/cursors/left_ptr with size 4096
+54699 16:40:20.328494798 chrome 3008 read /usr/share/icons/DMZ-White/cursors/left_ptr with size 4096
+55086 16:40:20.338030224 chrome 3008 read /usr/share/icons/ubuntu-mono-dark/index.theme with size 4096
+55090 16:40:20.338068800 chrome 3008 read /usr/share/icons/ubuntu-mono-dark/index.theme with size 4096
+55148 16:40:20.338223170 chrome 3008 read /usr/share/icons/Humanity-Dark/index.theme with size 4096
+55152 16:40:20.338271565 chrome 3008 read /usr/share/icons/Humanity-Dark/index.theme with size 4096
+55208 16:40:20.338418447 chrome 3008 read /usr/share/icons/Humanity/index.theme with size 4096
+55212 16:40:20.338469310 chrome 3008 read /usr/share/icons/Humanity/index.theme with size 4096
+55218 16:40:20.338552021 chrome 3008 read /usr/share/icons/Humanity/index.theme with size 4096
+55222 16:40:20.338595817 chrome 3008 read /usr/share/icons/Humanity/index.theme with size 4096
+55282 16:40:20.339206730 chrome 3008 read /usr/share/icons/Adwaita/index.theme with size 4096
+55286 16:40:20.339261007 chrome 3008 read /usr/share/icons/Adwaita/index.theme with size 4096
+55292 16:40:20.339320012 chrome 3008 read /usr/share/icons/Adwaita/index.theme with size 4096
+55356 16:40:20.339704239 chrome 3008 read /usr/share/icons/hicolor/index.theme with size 4096
+55358 16:40:20.339707508 chrome 3008 read /usr/share/icons/hicolor/index.theme with size 4096
+55360 16:40:20.339709487 chrome 3008 read /usr/share/icons/hicolor/index.theme with size 4096
+55362 16:40:20.339729506 chrome 3008 read /usr/share/icons/hicolor/index.theme with size 4096
+55366 16:40:20.339786479 chrome 3008 read /usr/share/icons/hicolor/index.theme with size 4096
+55370 16:40:20.339854173 chrome 3008 read /usr/share/icons/hicolor/index.theme with size 4096
+55385 16:40:20.339926378 chrome 3008 read /usr/share/icons/hicolor/index.theme with size 4096
+55398 16:40:20.339997093 chrome 3008 read /usr/share/icons/hicolor/index.theme with size 4096
+55402 16:40:20.340071446 chrome 3008 read /usr/share/icons/hicolor/index.theme with size 4096
+55408 16:40:20.340144325 chrome 3008 read /usr/share/icons/hicolor/index.theme with size 4096
+55422 16:40:20.340217322 chrome 3008 read /usr/share/icons/hicolor/index.theme with size 4096
+55430 16:40:20.340292320 chrome 3008 read /usr/share/icons/hicolor/index.theme with size 4096
+55468 16:40:20.340396660 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+55474 16:40:20.340407973 chrome 3008 read /usr/share/icons/hicolor/index.theme with size 4096
+55476 16:40:20.340429997 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+55478 16:40:20.340459901 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+55482 16:40:20.340479044 chrome 3008 read /usr/share/icons/hicolor/index.theme with size 4096
+55484 16:40:20.340488722 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+55486 16:40:20.340515983 chrome 3008 read /usr/share/icons/hicolor/index.theme with size 4096
+55488 16:40:20.340518609 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+55494 16:40:20.340549257 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+55500 16:40:20.340590117 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+55502 16:40:20.340608200 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+55850 16:40:20.340867395 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+55854 16:40:20.340893452 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+55856 16:40:20.340922812 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+55858 16:40:20.340951222 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+55860 16:40:20.340980813 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+55862 16:40:20.341011396 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+55864 16:40:20.341046579 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+55866 16:40:20.341064677 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+56184 16:40:20.341329685 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+56188 16:40:20.341355846 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+56190 16:40:20.341384798 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+56192 16:40:20.341413163 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+56194 16:40:20.341443030 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+56196 16:40:20.341473681 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+56198 16:40:20.341508226 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+56200 16:40:20.341526146 chrome 3051 read /usr/share/drirc.d/00-mesa-defaults.conf with size 4096
+57352 16:40:20.344587845 chrome 3008 read /usr/share/icons/ubuntu-mono-dark/actions/16/window-minimize-symbolic.svg with size 8192
+57354 16:40:20.344590278 chrome 3008 read /usr/share/icons/ubuntu-mono-dark/actions/16/window-minimize-symbolic.svg with size 8192
+57370 16:40:20.344671599 chrome 3008 read /usr/share/icons/ubuntu-mono-dark/actions/16/window-minimize-symbolic.svg with size 65536
+57372 16:40:20.344673302 chrome 3008 read /usr/share/icons/ubuntu-mono-dark/actions/16/window-minimize-symbolic.svg with size 65536
+57391 16:40:20.344757547 chrome 3008 read /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so with size 832
+57429 16:40:20.344899879 chrome 3008 read /usr/lib/x86_64-linux-gnu/librsvg-2.so.2 with size 832
+57453 16:40:20.344952094 chrome 3008 read /usr/lib/x86_64-linux-gnu/libcroco-0.6.so.3 with size 832
+57473 16:40:20.345001516 chrome 3008 read /usr/lib/x86_64-linux-gnu/libxml2.so.2 with size 832
+57499 16:40:20.345086302 chrome 3008 read /usr/lib/x86_64-linux-gnu/libicuuc.so.60 with size 832
+57525 16:40:20.345160471 chrome 3008 read /usr/lib/x86_64-linux-gnu/libicudata.so.60 with size 832
+57543 16:40:20.345215886 chrome 3008 read /usr/lib/x86_64-linux-gnu/libstdc++.so.6 with size 832
+59070 16:40:20.348195058 chrome 3051 read /lib/x86_64-linux-gnu/libpci.so.3 with size 832
+59093 16:40:20.348232864 chrome 3051 read /lib/x86_64-linux-gnu/libudev.so.1 with size 832
+59492 16:40:20.348967071 chrome 3008 read /usr/share/icons/ubuntu-mono-dark/actions/16/window-maximize-symbolic.svg with size 8192
+59494 16:40:20.348969080 chrome 3008 read /usr/share/icons/ubuntu-mono-dark/actions/16/window-maximize-symbolic.svg with size 8192
+59502 16:40:20.348979884 chrome 3008 read /usr/share/icons/ubuntu-mono-dark/actions/16/window-maximize-symbolic.svg with size 65536
+59504 16:40:20.348981052 chrome 3008 read /usr/share/icons/ubuntu-mono-dark/actions/16/window-maximize-symbolic.svg with size 65536
+59542 16:40:20.349444449 chrome 3008 read /usr/share/icons/ubuntu-mono-dark/actions/16/window-close-symbolic.svg with size 8192
+59544 16:40:20.349446812 chrome 3008 read /usr/share/icons/ubuntu-mono-dark/actions/16/window-close-symbolic.svg with size 8192
+59552 16:40:20.349456799 chrome 3008 read /usr/share/icons/ubuntu-mono-dark/actions/16/window-close-symbolic.svg with size 65536
+59554 16:40:20.349458446 chrome 3008 read /usr/share/icons/ubuntu-mono-dark/actions/16/window-close-symbolic.svg with size 65536
+61017 16:40:20.352541991 chrome 3053 exit
+61361 16:40:20.353359297 chrome 3079 clone process 3079
+61429 16:40:20.353895179 chrome 3051 clone thread 3081
+61513 16:40:20.354099270 chrome 3051 clone thread 3080
+61543 16:40:20.354163832 chrome 3051 clone thread 3082
+61564 16:40:20.354194906 chrome 3051 clone thread 3083
+62003 16:40:20.354676764 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/To with size 100
+62017 16:40:20.354715137 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/To with size 4096
+62033 16:40:20.354752348 ThreadPoolForeg 3051 clone thread 3084
+62049 16:40:20.354778386 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/To with size 4096
+62059 16:40:20.354783494 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/To with size 4096
+62874 16:40:20.355330643 chrome 3051 clone thread 3085
+64658 16:40:20.357927480 chrome 3086 clone process 3086
+64863 16:40:20.358774570 chrome 3087 clone process 3087
+65473 16:40:20.361192837 chrome 3086 clone thread 3089
+65663 16:40:20.361388653 chrome 3086 clone thread 3091
+66522 16:40:20.362322286 chrome 3086 clone thread 3092
+67773 16:40:20.365332471 chrome 3087 clone thread 3096
+67911 16:40:20.365526961 chrome 3087 clone thread 3094
+68112 16:40:20.365818500 chrome 3087 clone thread 3097
+69101 16:40:20.367049782 ThreadPoolForeg 3052 read /etc/nsswitch.conf with size 4096
+69104 16:40:20.367054792 ThreadPoolForeg 3052 read /etc/nsswitch.conf with size 4096
+69143 16:40:20.367104366 ThreadPoolForeg 3052 read /lib/x86_64-linux-gnu/libnss_files.so.2 with size 832
+69241 16:40:20.367178377 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+69246 16:40:20.367187905 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+69296 16:40:20.367208382 ThreadPoolForeg 3052 read /lib/x86_64-linux-gnu/libnss_mdns4_minimal.so.2 with size 832
+69465 16:40:20.367379051 ThreadPoolForeg 3052 read /lib/x86_64-linux-gnu/libnss_dns.so.2 with size 832
+70318 16:40:20.369726973 chrome 3008 pread /home/dzjp/.cache/google-chrome/Default/Cod with size 1776
+70346 16:40:20.369864053 chrome 3008 pread /home/dzjp/.cache/google-chrome/Default/Cod with size 48
+70613 16:40:20.371236511 chrome 3086 clone thread 3101
+70767 16:40:20.371489864 chrome 3086 clone thread 3104
+70892 16:40:20.371669991 chrome 3086 clone thread 3103
+71192 16:40:20.372127090 chrome 3086 clone thread 3102
+71210 16:40:20.372141677 chrome 3086 clone thread 3100
+71413 16:40:20.372387400 chrome 3087 clone thread 3095
+71430 16:40:20.372476485 ThreadPoolForeg 3093 clone process 3093
+71812 16:40:20.373117139 chrome 3087 clone thread 3108
+71829 16:40:20.373134993 chrome 3087 clone thread 3109
+71859 16:40:20.373185191 chrome 3087 clone thread 3099
+71889 16:40:20.373214509 chrome 3087 clone thread 3107
+71906 16:40:20.373227675 chrome 3087 clone thread 3106
+71931 16:40:20.373244087 chrome 3087 clone thread 3105
+71948 16:40:20.373265124 ThreadPoolForeg 3087 clone thread 3098
+72384 16:40:20.373985375 ThreadPoolForeg 3093 execve to /usr/local/sbin/xdg-settings
+72386 16:40:20.374016273 ThreadPoolForeg 3093 execve to /usr/local/bin/xdg-settings
+72388 16:40:20.374040303 ThreadPoolForeg 3093 execve to /usr/sbin/xdg-settings
+72390 16:40:20.374063632 ThreadPoolForeg 3093 execve to /usr/bin/xdg-settings
+72392 16:40:20.374076735 chrome 3086 clone thread 3088
+72449 16:40:20.374131546 ThreadPoolForeg 3086 clone thread 3090
+74996 16:40:20.381177164 chrome 3008 write /home/dzjp/.config/google-chrome/WidevineCdm/.com.google.Chrome.sD0drv with size 41
+75469 16:40:20.382170416 chrome 3052 read /etc/hosts with size 4096
+75471 16:40:20.382174738 chrome 3052 read /etc/hosts with size 4096
+75923 16:40:20.382896041 chrome 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/index with size 24
+76008 16:40:20.382970147 chrome 3008 read /home/dzjp/.config/google-chrome/Crow with size 12288
+76010 16:40:20.382973262 chrome 3008 read /home/dzjp/.config/google-chrome/Crow with size 4096
+76012 16:40:20.382974377 chrome 3008 read /home/dzjp/.config/google-chrome/Crow with size 4096
+76060 16:40:20.383034050 chrome 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/index-dir/the-real-index with size 5040
+76118 16:40:20.383141065 chrome 3052 read /etc/hosts with size 4096
+76120 16:40:20.383144291 chrome 3052 read /etc/hosts with size 4096
+76326 16:40:20.383354355 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+76328 16:40:20.383357826 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+76528 16:40:20.383771342 chrome 3008 pread /home/dzjp/.config/google-chrome/ShaderCache/GPUCache/index with size 4096
+76551 16:40:20.383781100 chrome 3008 pread /home/dzjp/.config/google-chrome/ShaderCache/GPUCache/index with size 262512
+76636 16:40:20.383972560 chrome 3008 pread /home/dzjp/.config/google-chrome/ShaderCache/GPUCache/data_0 with size 8192
+76642 16:40:20.383978019 chrome 3008 pread /home/dzjp/.config/google-chrome/ShaderCache/GPUCache/data_0 with size 8192
+76648 16:40:20.383983133 chrome 3008 pread /home/dzjp/.config/google-chrome/ShaderCache/GPUCache/data_1 with size 8192
+76656 16:40:20.383992412 chrome 3008 pread /home/dzjp/.config/google-chrome/ShaderCache/GPUCache/data_2 with size 8192
+76664 16:40:20.384000122 chrome 3008 pread /home/dzjp/.config/google-chrome/ShaderCache/GPUCache/data_3 with size 8192
+76668 16:40:20.384005200 chrome 3008 pread /home/dzjp/.config/google-chrome/ShaderCache/GPUCache/data_1 with size 512
+76694 16:40:20.384038207 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/index with size 4096
+76702 16:40:20.384046944 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/index with size 262512
+76708 16:40:20.384116913 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 8192
+76716 16:40:20.384124430 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 45056
+76722 16:40:20.384145930 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 8192
+76730 16:40:20.384153782 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 8192
+76738 16:40:20.384161676 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_3 with size 8192
+76742 16:40:20.384166579 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+81426 16:40:20.395003519 chrome 3008 clone thread 3120
+85351 16:40:20.401475447 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 368
+85377 16:40:20.401486933 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85387 16:40:20.401490253 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85393 16:40:20.401492448 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85397 16:40:20.401494445 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85401 16:40:20.401496422 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85405 16:40:20.401498360 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85409 16:40:20.401500428 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85413 16:40:20.401502433 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85419 16:40:20.401504356 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85428 16:40:20.401506259 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85433 16:40:20.401508185 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85437 16:40:20.401510270 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85446 16:40:20.401512215 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85453 16:40:20.401514139 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85457 16:40:20.401517099 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85463 16:40:20.401519135 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85472 16:40:20.401521040 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85477 16:40:20.401522948 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85481 16:40:20.401524870 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85489 16:40:20.401526829 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85497 16:40:20.401528749 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85501 16:40:20.401530671 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85505 16:40:20.401532587 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85509 16:40:20.401534627 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85513 16:40:20.401536558 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85521 16:40:20.401538488 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85529 16:40:20.401540507 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85533 16:40:20.401542491 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85537 16:40:20.401544643 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85547 16:40:20.401547267 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85553 16:40:20.401549185 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85557 16:40:20.401551142 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85564 16:40:20.401553059 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85573 16:40:20.401554957 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85577 16:40:20.401556858 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85582 16:40:20.401558819 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85591 16:40:20.401560728 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85597 16:40:20.401562661 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85601 16:40:20.401564565 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85610 16:40:20.401566499 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85617 16:40:20.401568491 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85621 16:40:20.401570446 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85625 16:40:20.401572374 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85630 16:40:20.401574313 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85634 16:40:20.401576964 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85638 16:40:20.401579028 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85642 16:40:20.401580940 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85647 16:40:20.401582943 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85651 16:40:20.401584849 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85659 16:40:20.401586948 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85666 16:40:20.401588937 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85671 16:40:20.401590919 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85675 16:40:20.401592898 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85679 16:40:20.401594823 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85683 16:40:20.401596726 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85687 16:40:20.401598705 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85691 16:40:20.401600691 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85695 16:40:20.401602784 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85699 16:40:20.401604752 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85703 16:40:20.401607511 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85707 16:40:20.401609412 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85713 16:40:20.401611363 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85721 16:40:20.401613266 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85727 16:40:20.401615245 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 368
+85747 16:40:20.401626789 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 4096
+85767 16:40:20.401632959 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/GPUCache/index with size 262512
+85794 16:40:20.401669115 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/data_0 with size 8192
+85804 16:40:20.401682306 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/GPUCache/data_0 with size 8192
+85812 16:40:20.401686503 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/GPUCache/data_0 with size 8192
+85826 16:40:20.401695961 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/data_1 with size 8192
+85834 16:40:20.401706518 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/GPUCache/data_1 with size 8192
+85851 16:40:20.401717165 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/data_2 with size 8192
+85874 16:40:20.401734240 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/GPUCache/data_2 with size 8192
+85886 16:40:20.401744405 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/GPUCache/data_3 with size 8192
+85903 16:40:20.401755661 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/GPUCache/data_3 with size 8192
+85937 16:40:20.401784599 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+85941 16:40:20.401789101 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+85943 16:40:20.401790605 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+85947 16:40:20.401793167 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+86072 16:40:20.401904434 chrome 3008 read /usr/share/icons/DMZ-White/cursors/left_ptr with size 12288
+86076 16:40:20.401907111 chrome 3008 read /usr/share/icons/DMZ-White/cursors/left_ptr with size 4096
+86078 16:40:20.401908655 chrome 3008 read /usr/share/icons/DMZ-White/cursors/left_ptr with size 4096
+86934 16:40:20.403210917 chrome 3008 write /home/dzjp/.config/google-chrome/Default/.com.google.Chrome.Qd42QQ with size 21393
+87977 16:40:20.404361413 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1816
+88480 16:40:20.405507688 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/4aea5279dfe5529a_0 with size 24
+89897 16:40:20.408929569 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/assets/windowbutton.png with size 65536
+89899 16:40:20.408932578 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/assets/windowbutton.png with size 65536
+89986 16:40:20.409522855 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/assets/windowbutton-close.png with size 65536
+89988 16:40:20.409525043 chrome 3008 read /usr/share/themes/Ambiance/gtk-3.20/assets/windowbutton-close.png with size 65536
+90437 16:40:20.410636917 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+90451 16:40:20.410647123 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+90460 16:40:20.410650667 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+90465 16:40:20.410652462 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+90472 16:40:20.410654427 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+90847 16:40:20.411190307 chrome 3052 recvfrom 10.0.2.15->203.208.41.66 with size 1
+90898 16:40:20.411236140 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1988
+90913 16:40:20.411248046 chrome 3052 recvfrom 10.0.2.15->203.208.41.66 with size 1
+90955 16:40:20.411310796 chrome 3052 sendto 10.0.2.15->203.208.41.66 with size 517
+91345 16:40:20.411688873 chrome 3008 read /home/dzjp/.config/google-chrome/Default/Extensio with size 8192
+91347 16:40:20.411691052 chrome 3008 read /home/dzjp/.config/google-chrome/Default/Extensio with size 8192
+91353 16:40:20.411699918 chrome 3008 read /home/dzjp/.config/google-chrome/Default/Extensio with size 32768
+91374 16:40:20.411748296 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Extensio with size 118
+91458 16:40:20.411839087 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Extensio with size 46
+91464 16:40:20.411842775 chrome 3008 read /home/dzjp/.config/google-chrome/Default/Extensio with size 32768
+91483 16:40:20.411862692 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Extensio with size 113
+91661 16:40:20.412036265 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+91668 16:40:20.412046412 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+91670 16:40:20.412048568 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+91673 16:40:20.412050027 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+91679 16:40:20.412051957 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+91722 16:40:20.412091792 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1800
+91771 16:40:20.412149909 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+91776 16:40:20.412157740 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+91778 16:40:20.412159354 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+91780 16:40:20.412160435 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+91785 16:40:20.412162065 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+91837 16:40:20.412476517 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 2068
+91901 16:40:20.412567701 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+91916 16:40:20.412609579 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+91918 16:40:20.412611760 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+91921 16:40:20.412612908 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+91927 16:40:20.412614738 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+92089 16:40:20.413280318 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1628
+92182 16:40:20.414302237 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+92187 16:40:20.414338356 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+92189 16:40:20.414347951 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+92191 16:40:20.414352434 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+92195 16:40:20.414356570 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+92300 16:40:20.415306356 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1528
+92361 16:40:20.415558945 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+92364 16:40:20.415570191 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+92366 16:40:20.415573350 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+92368 16:40:20.415576679 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+92372 16:40:20.415580257 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+92472 16:40:20.416291984 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1188
+92572 16:40:20.416497176 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+92581 16:40:20.416506274 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+92583 16:40:20.416508831 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+92587 16:40:20.416510449 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+92595 16:40:20.416512366 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+92789 16:40:20.417018982 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1796
+92896 16:40:20.417361707 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+92905 16:40:20.417368434 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+92907 16:40:20.417370384 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+92911 16:40:20.417371594 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+92918 16:40:20.417373379 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+94189 16:40:20.422636129 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1936
+94613 16:40:20.426160846 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+94621 16:40:20.426212752 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+94623 16:40:20.426219917 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+94625 16:40:20.426223714 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+94629 16:40:20.426228187 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+94754 16:40:20.426673671 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1548
+94863 16:40:20.426776399 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+94881 16:40:20.426783190 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+94883 16:40:20.426784764 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+94887 16:40:20.426786086 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+94896 16:40:20.426787831 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+94964 16:40:20.426821309 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1816
+95038 16:40:20.426897241 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95057 16:40:20.426902733 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95063 16:40:20.426904172 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+95066 16:40:20.426905150 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95071 16:40:20.426906798 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95134 16:40:20.426940332 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1356
+95211 16:40:20.427056701 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95223 16:40:20.427062125 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95226 16:40:20.427063522 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+95229 16:40:20.427064649 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95234 16:40:20.427066188 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95301 16:40:20.427127849 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 2400
+95409 16:40:20.427421686 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95418 16:40:20.427443669 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95422 16:40:20.427448042 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+95427 16:40:20.427449891 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95431 16:40:20.427453133 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95586 16:40:20.428381506 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1988
+95650 16:40:20.428491858 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95654 16:40:20.428501877 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95656 16:40:20.428503788 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+95658 16:40:20.428505609 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95662 16:40:20.428507452 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95721 16:40:20.428556031 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1716
+95786 16:40:20.428637552 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95791 16:40:20.428643785 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95794 16:40:20.428645190 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+95796 16:40:20.428646733 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95801 16:40:20.428648363 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95848 16:40:20.428690609 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1368
+95908 16:40:20.428759466 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95912 16:40:20.428765548 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95914 16:40:20.428767208 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+95916 16:40:20.428768682 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95922 16:40:20.428777081 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+95982 16:40:20.428822870 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 2000
+96045 16:40:20.428888767 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96049 16:40:20.428894773 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96051 16:40:20.428896203 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+96053 16:40:20.428897243 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96057 16:40:20.428898930 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96104 16:40:20.428939049 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 2000
+96168 16:40:20.429006278 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96174 16:40:20.429011998 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96176 16:40:20.429013395 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+96179 16:40:20.429014653 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96184 16:40:20.429016323 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96237 16:40:20.429056822 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1672
+96297 16:40:20.429118096 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96301 16:40:20.429123887 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96303 16:40:20.429125274 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+96305 16:40:20.429126252 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96309 16:40:20.429127837 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96356 16:40:20.429168199 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 2140
+96429 16:40:20.429241294 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96436 16:40:20.429248247 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96439 16:40:20.429249749 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+96441 16:40:20.429250842 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96445 16:40:20.429252427 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96503 16:40:20.429295348 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1876
+96581 16:40:20.429367558 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96589 16:40:20.429374366 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96591 16:40:20.429375816 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+96593 16:40:20.429376912 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96597 16:40:20.429378622 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96651 16:40:20.429421045 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1952
+96714 16:40:20.429498658 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96721 16:40:20.429505828 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96725 16:40:20.429507336 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+96727 16:40:20.429508357 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96732 16:40:20.429510040 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96779 16:40:20.429553331 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1096
+96845 16:40:20.429630870 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96852 16:40:20.429637921 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96854 16:40:20.429639387 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+96856 16:40:20.429640402 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96860 16:40:20.429641966 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96907 16:40:20.429684929 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1492
+96974 16:40:20.429758437 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96980 16:40:20.429765649 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96982 16:40:20.429767105 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+96984 16:40:20.429768340 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+96988 16:40:20.429769995 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97035 16:40:20.429812951 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1672
+97097 16:40:20.429888882 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97101 16:40:20.429895850 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97103 16:40:20.429897301 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+97105 16:40:20.429898310 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97109 16:40:20.429899883 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97163 16:40:20.429942795 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 736
+97236 16:40:20.430036016 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97240 16:40:20.430043389 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97242 16:40:20.430044907 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+97244 16:40:20.430046011 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97248 16:40:20.430047627 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97295 16:40:20.430090401 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1224
+97362 16:40:20.430206452 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97370 16:40:20.430216750 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97372 16:40:20.430219178 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+97374 16:40:20.430220263 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97378 16:40:20.430222157 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97445 16:40:20.430284633 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1628
+97520 16:40:20.430362483 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97527 16:40:20.430369093 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97529 16:40:20.430370661 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+97532 16:40:20.430371713 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97536 16:40:20.430373325 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97589 16:40:20.430417439 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 736
+97651 16:40:20.430497180 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97655 16:40:20.430503814 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97657 16:40:20.430505340 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+97659 16:40:20.430506336 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97663 16:40:20.430507959 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97717 16:40:20.430552188 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 908
+97779 16:40:20.430625998 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97783 16:40:20.430632615 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97785 16:40:20.430634170 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+97787 16:40:20.430635160 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97791 16:40:20.430636839 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97845 16:40:20.430680412 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1232
+97913 16:40:20.430758103 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97918 16:40:20.430764666 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97920 16:40:20.430766310 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+97922 16:40:20.430767361 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97926 16:40:20.430768995 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+97973 16:40:20.430812633 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1368
+98046 16:40:20.430889880 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+98051 16:40:20.430896619 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+98053 16:40:20.430898140 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+98055 16:40:20.430899135 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+98059 16:40:20.430900723 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+98106 16:40:20.430945708 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1356
+98174 16:40:20.431020737 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+98179 16:40:20.431027354 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+98181 16:40:20.431028909 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+98183 16:40:20.431029916 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+98187 16:40:20.431031492 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+98243 16:40:20.431074998 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1096
+98311 16:40:20.431148697 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+98316 16:40:20.431155485 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+98318 16:40:20.431156994 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_1 with size 512
+98320 16:40:20.431158022 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+98324 16:40:20.431159638 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+98374 16:40:20.431203332 chrome 3008 pread /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_2 with size 1176
+98498 16:40:20.431276184 chrome 3008 pwrite /home/dzjp/.config/google-chrome/GrShaderCache/GPUCache/data_0 with size 36
+109296 16:40:20.466532881 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/4aea5279dfe5529a_0 with size 4380
+109716 16:40:20.482591261 chrome 3008 read /usr/lib/x86_64-linux-gnu/nss/libsoftokn3.so with size 832
+109743 16:40:20.482676724 chrome 3008 read /usr/lib/x86_64-linux-gnu/libsqlite3.so.0 with size 832
+109779 16:40:20.482972419 chrome 3008 read /home/dzjp/.pki/nssdb/pkcs11.txt with size 4096
+109781 16:40:20.482982354 chrome 3008 read /home/dzjp/.pki/nssdb/pkcs11.txt with size 4096
+109797 16:40:20.483062330 chrome 3008 read /usr/lib/x86_64-linux-gnu/nss/libfreeblpriv3.so with size 832
+109823 16:40:20.483196786 chrome 3008 read /dev/urandom with size 110
+109842 16:40:20.483228194 chrome 3008 read /dev/urandom with size 1024
+109850 16:40:20.483238708 chrome 3008 read /etc/passwd with size 8192
+109852 16:40:20.483242142 chrome 3008 read /etc/passwd with size 8192
+109862 16:40:20.483248697 chrome 3008 read /tmp with size 8192
+109870 16:40:20.483254417 chrome 3008 read /var/tmp with size 8192
+109916 16:40:20.483336341 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 100
+109954 16:40:20.483433111 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 4096
+110048 16:40:20.483704554 chrome 3008 pread /home/dzjp/.pki/nssdb/key4.db with size 100
+110070 16:40:20.483757224 chrome 3008 pread /home/dzjp/.pki/nssdb/key4.db with size 4096
+110110 16:40:20.483946954 chrome 3008 pread /home/dzjp/.pki/nssdb/key4.db with size 16
+110116 16:40:20.483951379 chrome 3008 pread /home/dzjp/.pki/nssdb/key4.db with size 4096
+110118 16:40:20.483953698 chrome 3008 pread /home/dzjp/.pki/nssdb/key4.db with size 4096
+110134 16:40:20.483976044 chrome 3008 pread /home/dzjp/.pki/nssdb/key4.db with size 16
+110152 16:40:20.484012856 chrome 3008 pread /home/dzjp/.pki/nssdb/key4.db with size 16
+110172 16:40:20.484045550 chrome 3008 pread /home/dzjp/.pki/nssdb/key4.db with size 16
+110188 16:40:20.484067812 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+110196 16:40:20.484071104 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 4096
+110234 16:40:20.484267326 chrome 3008 read /usr/lib/x86_64-linux-gnu/nss/libnssckbi.so with size 832
+110260 16:40:20.484549289 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+110266 16:40:20.484554153 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 4096
+110280 16:40:20.484575022 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+110298 16:40:20.484651273 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+110314 16:40:20.484706059 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+110320 16:40:20.484709542 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 4096
+110334 16:40:20.484749122 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+110350 16:40:20.484767507 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+110366 16:40:20.484813933 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+110382 16:40:20.484848539 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+110398 16:40:20.484883126 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+110414 16:40:20.484901119 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+110430 16:40:20.484943772 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+110446 16:40:20.484977230 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+110464 16:40:20.485023624 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+110482 16:40:20.485105148 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+110502 16:40:20.485124083 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+110518 16:40:20.485166461 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+111223 16:40:20.488089244 chrome 3052 sendto 10.0.2.15->203.208.41.66 with size 64
+111239 16:40:20.488238351 chrome 3052 recvfrom 10.0.2.15->203.208.41.66 with size 1
+111243 16:40:20.488257769 chrome 3052 recvfrom 10.0.2.15->203.208.41.66 with size 1
+111247 16:40:20.488275611 chrome 3052 sendto 10.0.2.15->203.208.41.66 with size 92
+111255 16:40:20.488311163 chrome 3052 recvfrom 10.0.2.15->203.208.41.66 with size 1
+111257 16:40:20.488315273 chrome 3052 recvfrom 10.0.2.15->203.208.41.66 with size 1
+111259 16:40:20.488315972 chrome 3052 recvfrom 10.0.2.15->203.208.41.66 with size 1
+111263 16:40:20.488334505 chrome 3052 recvfrom 10.0.2.15->203.208.41.66 with size 1
+111271 16:40:20.488391513 chrome 3052 sendto 10.0.2.15->203.208.41.66 with size 300
+116948 16:40:20.546489224 chrome 3052 sendto 10.0.2.15->203.208.41.66 with size 31
+125059 16:40:20.678984949 chrome 3052 sendto 10.0.2.15->203.208.41.66 with size 39
+132122 16:40:20.985881452 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+132124 16:40:20.985967913 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+132129 16:40:20.986304808 chrome 3052 sendto 10.0.2.15->145.14.145.156 with size 517
+132649 16:40:20.996029781 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+132652 16:40:20.996221664 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+132668 16:40:20.996439504 chrome 3052 sendto 10.0.2.15->145.14.145.156 with size 517
+133100 16:40:21.017125490 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+133109 16:40:21.017144710 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+133112 16:40:21.017196350 chrome 3052 sendto 10.0.2.15->145.14.145.156 with size 517
+137551 16:40:21.217857708 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+137567 16:40:21.218007733 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+137592 16:40:21.218531907 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+137608 16:40:21.218751354 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+137624 16:40:21.218956409 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+137640 16:40:21.219061739 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+137656 16:40:21.219321230 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+137684 16:40:21.219499516 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+137701 16:40:21.219761511 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+137724 16:40:21.220105851 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+137740 16:40:21.220204744 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+137766 16:40:21.220425450 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+137994 16:40:21.225051743 chrome 3052 sendto 10.0.2.15->145.14.145.156 with size 80
+138012 16:40:21.225413510 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+138014 16:40:21.225450719 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+138018 16:40:21.225507204 chrome 3052 sendto 10.0.2.15->145.14.145.156 with size 92
+138026 16:40:21.225659054 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+138028 16:40:21.225668751 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+138030 16:40:21.225672793 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+138032 16:40:21.225719440 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+138038 16:40:21.225901310 chrome 3052 sendto 10.0.2.15->145.14.145.156 with size 488
+138212 16:40:21.238370668 chrome 3052 sendto 10.0.2.15->145.14.145.156 with size 126
+138911 16:40:21.261271540 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+138927 16:40:21.261410749 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+138943 16:40:21.261729808 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+138959 16:40:21.261927586 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+138975 16:40:21.262111645 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+138991 16:40:21.262414872 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+139007 16:40:21.262672897 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+139023 16:40:21.262856814 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+139039 16:40:21.263094923 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+139055 16:40:21.263419812 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+139071 16:40:21.263519466 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+139087 16:40:21.263742189 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+139148 16:40:21.267649446 chrome 3052 sendto 10.0.2.15->145.14.145.156 with size 80
+143352 16:40:21.452726973 chrome 3052 sendto 10.0.2.15->145.14.145.156 with size 31
+143428 16:40:21.454503335 ThreadPoolForeg 3052 pread /home/dzjp/.config/google-chrome/Default/Reportin with size 100
+143483 16:40:21.454741496 ThreadPoolForeg 3052 pread /home/dzjp/.config/google-chrome/Default/Reportin with size 4096
+143548 16:40:21.455093199 ThreadPoolForeg 3052 pread /home/dzjp/.config/google-chrome/Default/Reportin with size 16
+143570 16:40:21.455179498 ThreadPoolForeg 3052 pread /home/dzjp/.config/google-chrome/Default/Reportin with size 16
+143581 16:40:21.455197909 ThreadPoolForeg 3052 pread /home/dzjp/.config/google-chrome/Default/Reportin with size 4096
+143586 16:40:21.455209230 ThreadPoolForeg 3052 pread /home/dzjp/.config/google-chrome/Default/Reportin with size 4096
+143628 16:40:21.455379465 ThreadPoolForeg 3052 pread /home/dzjp/.config/google-chrome/Default/Reportin with size 16
+143659 16:40:21.455466471 ThreadPoolForeg 3052 pread /home/dzjp/.config/google-chrome/Default/Reportin with size 16
+143848 16:40:21.457134185 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/4aea5279dfe5529a_0 with size 5097
+143980 16:40:21.459035504 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/4aea5279dfe5529a_0 with size 4348
+143992 16:40:21.459101377 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/4aea5279dfe5529a_0 with size 32
+144010 16:40:21.459156400 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/4aea5279dfe5529a_0 with size 24
+144016 16:40:21.459168472 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/4aea5279dfe5529a_0 with size 24
+145884 16:40:21.476836390 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History-journal with size 512
+145890 16:40:21.476913515 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History-journal with size 4
+145892 16:40:21.476921769 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History-journal with size 4096
+145894 16:40:21.476940463 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History-journal with size 4
+145902 16:40:21.477038855 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History-journal with size 4
+145904 16:40:21.477048461 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History-journal with size 4096
+145906 16:40:21.477065019 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History-journal with size 4
+145908 16:40:21.477086358 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History-journal with size 4
+145910 16:40:21.477094042 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History-journal with size 4096
+145912 16:40:21.477108046 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History-journal with size 4
+145914 16:40:21.477123649 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History-journal with size 4
+145916 16:40:21.477130261 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History-journal with size 4096
+145918 16:40:21.477144041 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History-journal with size 4
+145920 16:40:21.477151733 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History-journal with size 4
+145922 16:40:21.477157762 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History-journal with size 4096
+145924 16:40:21.477171010 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History-journal with size 4
+148580 16:40:21.494426372 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+148582 16:40:21.494435335 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+148734 16:40:21.495150802 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/260249514f26ad07_0 with size 24
+148742 16:40:21.495172042 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/260249514f26ad07_0 with size 129
+148762 16:40:21.495350658 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/5b979aede6fe7060_0 with size 24
+148763 16:40:21.495353981 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+148765 16:40:21.495358945 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+148770 16:40:21.495364458 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/5b979aede6fe7060_0 with size 140
+148825 16:40:21.495505779 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+148826 16:40:21.495506527 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+148828 16:40:21.495508507 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+148831 16:40:21.495513975 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+149427 16:40:21.498293128 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/65a253132831dbce_0 with size 24
+149429 16:40:21.498298785 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/65a253132831dbce_0 with size 6412
+149779 16:40:21.499527073 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/65a253132831dbce_0 with size 606
+149787 16:40:21.499533992 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/65a253132831dbce_0 with size 24
+149817 16:40:21.499623890 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/e4fc461eb7b0e793_0 with size 24
+149826 16:40:21.499645240 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/e4fc461eb7b0e793_0 with size 141
+149840 16:40:21.499667751 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/9f88f256987dadec_0 with size 24
+149858 16:40:21.499678783 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/9f88f256987dadec_0 with size 135
+149870 16:40:21.499696115 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/5497e805b6337ef7_0 with size 24
+149877 16:40:21.499700614 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/5497e805b6337ef7_0 with size 132
+149963 16:40:21.499841145 chrome 3008 pread /home/dzjp/.cache/google-chrome/Default/Cod with size 24
+149966 16:40:21.499844623 chrome 3008 pread /home/dzjp/.cache/google-chrome/Default/Cod with size 108
+150087 16:40:21.500010593 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+150091 16:40:21.500014320 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+150124 16:40:21.500059981 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+150127 16:40:21.500061846 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+150143 16:40:21.500114635 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+150145 16:40:21.500116019 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+150259 16:40:21.500299420 chrome 3008 pread /home/dzjp/.cache/google-chrome/Default/Cod with size 24
+150266 16:40:21.500302378 chrome 3008 pread /home/dzjp/.cache/google-chrome/Default/Cod with size 32
+150387 16:40:21.500399022 chrome 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/87f8adcbc1add4d0_0 with size 24
+150390 16:40:21.500402396 chrome 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/87f8adcbc1add4d0_0 with size 5844
+150637 16:40:21.500914079 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/87f8adcbc1add4d0_0 with size 19887
+150647 16:40:21.500930117 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/87f8adcbc1add4d0_0 with size 24
+150762 16:40:21.501063784 chrome 3008 pread /home/dzjp/.cache/google-chrome/Default/Cod with size 74264
+150764 16:40:21.501105929 chrome 3008 pread /home/dzjp/.cache/google-chrome/Default/Cod with size 24
+150906 16:40:21.501372836 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+150908 16:40:21.501378860 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+151101 16:40:21.501999443 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/bd2402e6b9c1c412_0 with size 24
+151103 16:40:21.502004334 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/bd2402e6b9c1c412_0 with size 5076
+151349 16:40:21.502317955 chrome 3008 pread /home/dzjp/.cache/google-chrome/Default/Cod with size 24
+151352 16:40:21.502321011 chrome 3008 pread /home/dzjp/.cache/google-chrome/Default/Cod with size 108
+151470 16:40:21.502504483 chrome 3008 pread /home/dzjp/.cache/google-chrome/Default/Cod with size 24
+151477 16:40:21.502507630 chrome 3008 pread /home/dzjp/.cache/google-chrome/Default/Cod with size 32
+151512 16:40:21.502543089 chrome 3008 pread /home/dzjp/.cache/google-chrome/Default/Cod with size 146936
+151521 16:40:21.502640294 chrome 3008 pread /home/dzjp/.cache/google-chrome/Default/Cod with size 24
+151689 16:40:21.503177862 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/bd2402e6b9c1c412_0 with size 32768
+151943 16:40:21.504253314 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/1a35312cfe01e5d0_0 with size 24
+151945 16:40:21.504256497 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/1a35312cfe01e5d0_0 with size 5992
+152113 16:40:21.504420966 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/9dcbf4a83e73d142_0 with size 24
+152115 16:40:21.504423429 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/9dcbf4a83e73d142_0 with size 5992
+152183 16:40:21.504484714 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/bd2402e6b9c1c412_0 with size 24663
+152193 16:40:21.504491323 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/bd2402e6b9c1c412_0 with size 24
+152809 16:40:21.505701025 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/1a35312cfe01e5d0_0 with size 15828
+152818 16:40:21.505712895 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/1a35312cfe01e5d0_0 with size 24
+152964 16:40:21.505965343 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/9dcbf4a83e73d142_0 with size 15688
+152966 16:40:21.505975502 ThreadPoolForeg 3052 pread /home/dzjp/.cache/google-chrome/Default/Cache/9dcbf4a83e73d142_0 with size 24
+161206 16:40:21.544228541 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+161212 16:40:21.544233088 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+161673 16:40:21.546496939 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/5349b68bd2ed083f_0 with size 24
+161686 16:40:21.546512050 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/5349b68bd2ed083f_0 with size 463
+163565 16:40:21.557323234 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+163566 16:40:21.557323390 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/929a25266d89198f_0 with size 24
+163568 16:40:21.557329000 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+163575 16:40:21.557342917 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/929a25266d89198f_0 with size 102
+163658 16:40:21.557418838 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+163662 16:40:21.557423346 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+164028 16:40:21.569489022 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164044 16:40:21.569519900 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164060 16:40:21.569602044 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164078 16:40:21.569656726 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164094 16:40:21.569692811 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164110 16:40:21.569711293 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164126 16:40:21.569755588 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164142 16:40:21.569788813 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164158 16:40:21.569821374 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164174 16:40:21.569839086 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164192 16:40:21.569892420 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164210 16:40:21.569932969 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164226 16:40:21.569978722 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164244 16:40:21.570051441 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164260 16:40:21.570070680 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164276 16:40:21.570111375 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164845 16:40:21.573577540 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164861 16:40:21.573603509 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164877 16:40:21.573658425 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164893 16:40:21.573694859 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164909 16:40:21.573729276 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164925 16:40:21.573747690 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164941 16:40:21.573790668 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164957 16:40:21.573823543 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164973 16:40:21.573855963 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+164989 16:40:21.573873549 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+165005 16:40:21.573914715 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+165021 16:40:21.573946739 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+165037 16:40:21.573989252 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+165053 16:40:21.574049799 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+165069 16:40:21.574068116 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+165085 16:40:21.574111600 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+166153 16:40:21.596881715 ThreadPoolForeg 3052 read /etc/gai.conf with size 4096
+166156 16:40:21.596954250 ThreadPoolForeg 3052 read /etc/gai.conf with size 4096
+166287 16:40:21.601565070 chrome 3052 recvfrom 10.0.2.15->54.192.18.65 with size 1
+166289 16:40:21.601633170 chrome 3052 recvfrom 10.0.2.15->54.192.18.65 with size 1
+166291 16:40:21.601874186 chrome 3052 sendto 10.0.2.15->54.192.18.65 with size 517
+166322 16:40:21.603607495 chrome 3052 write /dev/fd/63 with size 132
+166333 16:40:21.603727875 cat 3014 write /dev/pts/0 with size 132
+166673 16:40:21.606868277 chrome 3052 recvfrom 10.0.2.15->54.192.18.65 with size 1
+166675 16:40:21.606907948 chrome 3052 recvfrom 10.0.2.15->54.192.18.65 with size 1
+166682 16:40:21.607102117 chrome 3052 sendto 10.0.2.15->54.192.18.65 with size 517
+166873 16:40:21.609709886 chrome 3052 write /dev/fd/63 with size 132
+166881 16:40:21.609837402 cat 3014 write /dev/pts/0 with size 132
+167146 16:40:21.611464695 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/929a25266d89198f_0 with size 0
+167150 16:40:21.611469445 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/929a25266d89198f_0 with size 32
+167156 16:40:21.611489162 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/929a25266d89198f_0 with size 24
+167160 16:40:21.611491293 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/929a25266d89198f_0 with size 24
+168085 16:40:21.626256280 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+168101 16:40:21.626287996 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+168117 16:40:21.626360288 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+168133 16:40:21.626399594 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+168149 16:40:21.626433827 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+168165 16:40:21.626451965 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+168181 16:40:21.626495659 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+168197 16:40:21.626528803 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+168213 16:40:21.626561679 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+168229 16:40:21.626579262 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+168245 16:40:21.626621153 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+168263 16:40:21.626662921 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+168279 16:40:21.626708663 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+168297 16:40:21.626781444 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+168313 16:40:21.626800398 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+168329 16:40:21.626841848 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+171348 16:40:21.686968760 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/5349b68bd2ed083f_0 with size 0
+171352 16:40:21.686974499 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/5349b68bd2ed083f_0 with size 32
+171358 16:40:21.686991787 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/5349b68bd2ed083f_0 with size 24
+171362 16:40:21.686993796 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/5349b68bd2ed083f_0 with size 24
+172994 16:40:21.701018954 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+172996 16:40:21.701025517 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+182654 16:40:22.004008424 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+182656 16:40:22.004020837 chrome 3052 recvfrom 10.0.2.15->145.14.145.156 with size 1
+183843 16:40:22.034567948 chrome 3052 recvfrom 10.0.2.15->203.208.41.102 with size 1
+183845 16:40:22.034652093 chrome 3052 recvfrom 10.0.2.15->203.208.41.102 with size 1
+183847 16:40:22.034879889 chrome 3052 sendto 10.0.2.15->203.208.41.102 with size 517
+194792 16:40:22.384649464 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+194811 16:40:22.384792140 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+194844 16:40:22.385121193 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+194860 16:40:22.385434074 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+194876 16:40:22.385628645 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+194892 16:40:22.385726588 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+194908 16:40:22.385994032 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+194924 16:40:22.386173294 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+194945 16:40:22.386440843 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+194961 16:40:22.386583463 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+194978 16:40:22.387001629 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+195006 16:40:22.387198417 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+195029 16:40:22.387435579 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+195055 16:40:22.387848485 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+195078 16:40:22.387956795 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+195096 16:40:22.388180271 chrome 3008 pread /home/dzjp/.pki/nssdb/cert9.db with size 16
+195574 16:40:22.394897208 chrome 3052 sendto 10.0.2.15->203.208.41.102 with size 64
+195585 16:40:22.395649266 chrome 3052 recvfrom 10.0.2.15->203.208.41.102 with size 1
+207795 16:40:22.746332795 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 8
+207797 16:40:22.746381212 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 2
+207799 16:40:22.746390181 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 1
+207801 16:40:22.746397058 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 8
+207803 16:40:22.746404540 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 2
+207805 16:40:22.746411134 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 1
+207807 16:40:22.746417667 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 12
+207809 16:40:22.746427232 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 2
+207811 16:40:22.746436611 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 1
+207813 16:40:22.746445737 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 12
+207815 16:40:22.746456846 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 2
+207817 16:40:22.746466523 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 1
+207819 16:40:22.746477799 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 8
+207821 16:40:22.746486071 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 2
+207823 16:40:22.746492578 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 1
+207825 16:40:22.746499070 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 8
+207827 16:40:22.746505973 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 2
+207829 16:40:22.746512429 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 1
+207831 16:40:22.746519139 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 8
+207833 16:40:22.746525962 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 2
+207835 16:40:22.746532451 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 1
+207837 16:40:22.746539016 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 32
+207839 16:40:22.746547114 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 2
+207841 16:40:22.746553616 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 1
+207843 16:40:22.746560113 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 8
+207845 16:40:22.746567218 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 2
+207847 16:40:22.746573892 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 1
+207849 16:40:22.746580395 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 48
+207851 16:40:22.746588232 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 2
+207853 16:40:22.746594693 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 1
+207855 16:40:22.746601209 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 8
+207857 16:40:22.746608284 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 2
+207859 16:40:22.746614757 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 1
+207861 16:40:22.746621907 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 16
+207863 16:40:22.746629371 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 2
+207865 16:40:22.746635833 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 1
+207867 16:40:22.746642312 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 4
+207869 16:40:22.746649216 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 2
+207871 16:40:22.746655675 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 1
+207873 16:40:22.746662132 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 16
+207875 16:40:22.746668930 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 2
+207877 16:40:22.746675399 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 1
+207879 16:40:22.746682092 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 8
+207881 16:40:22.746689302 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 2
+207883 16:40:22.746695727 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 1
+207885 16:40:22.746702197 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 8
+207887 16:40:22.746709606 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 2
+207889 16:40:22.746716099 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 1
+207891 16:40:22.746722639 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 888
+207893 16:40:22.746730893 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 2
+207895 16:40:22.746737568 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Session_13278616822746182 with size 1
+212222 16:40:22.882857099 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 8
+212224 16:40:22.882906345 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 2
+212226 16:40:22.882915062 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 1
+212228 16:40:22.882921744 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 52
+212230 16:40:22.882929587 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 2
+212232 16:40:22.882936297 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 1
+212234 16:40:22.882942904 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 16
+212236 16:40:22.882949864 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 2
+212238 16:40:22.882956405 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 1
+212240 16:40:22.882963018 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 792
+212242 16:40:22.882971306 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 2
+212244 16:40:22.882977850 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 1
+212246 16:40:22.882984311 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 52
+212248 16:40:22.882991448 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 2
+212250 16:40:22.882997925 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 1
+212252 16:40:22.883004493 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 16
+212254 16:40:22.883011527 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 2
+212256 16:40:22.883018023 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 1
+212258 16:40:22.883024798 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 888
+212260 16:40:22.883032120 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 2
+212262 16:40:22.883038601 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 1
+212264 16:40:22.883045157 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 16
+212266 16:40:22.883052140 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 2
+212268 16:40:22.883058632 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 1
+212270 16:40:22.883065149 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 1908
+212272 16:40:22.883073228 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 2
+212274 16:40:22.883079936 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 1
+212276 16:40:22.883086514 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 48
+212278 16:40:22.883093449 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 2
+212280 16:40:22.883099973 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 1
+212282 16:40:22.883106536 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 16
+212284 16:40:22.883113404 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 2
+212286 16:40:22.883120559 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 1
+212288 16:40:22.883127246 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 984
+212290 16:40:22.883146199 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 2
+212292 16:40:22.883153123 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 1
+212294 16:40:22.883159691 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 48
+212296 16:40:22.883167146 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 2
+212298 16:40:22.883173676 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 1
+212300 16:40:22.883180240 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 16
+212302 16:40:22.883187453 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 2
+212304 16:40:22.883193987 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 1
+212306 16:40:22.883200730 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 888
+212308 16:40:22.883208485 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 2
+212310 16:40:22.883215038 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 1
+212312 16:40:22.883221607 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 52
+212314 16:40:22.883228880 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 2
+212316 16:40:22.883235409 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 1
+212318 16:40:22.883241953 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 16
+212320 16:40:22.883248984 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 2
+212322 16:40:22.883255699 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 1
+212324 16:40:22.883262288 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 792
+212326 16:40:22.883269546 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 2
+212328 16:40:22.883276034 chrome 3008 write /home/dzjp/.config/google-chrome/Default/Sessions/Tabs_13278616822882709 with size 1
+342144 16:40:27.252195076 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+342147 16:40:27.252233078 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+342394 16:40:27.253094694 chrome 3052 read /etc/hosts with size 4096
+342407 16:40:27.253159848 chrome 3052 read /etc/hosts with size 4096
+342469 16:40:27.253408062 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+342566 16:40:27.254062926 ThreadPoolForeg 3052 read /lib/x86_64-linux-gnu/libnss_myhostname.so.2 with size 832
+342578 16:40:27.254126676 ThreadPoolForeg 3052 read /etc/hosts with size 4096
+432624 16:40:30.358432593 chrome 3008 write /home/dzjp/.config/google-chrome/.com.google.Chrome.kNr4bk with size 48962
+434319 16:40:30.412517802 chrome 3008 write /home/dzjp/.config/google-chrome/Default/.com.google.Chrome.zeqvTW with size 21395
+456538 16:40:31.484893199 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History-journal with size 4
+456559 16:40:31.484939571 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History-journal with size 4096
+456573 16:40:31.484974539 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History-journal with size 4
+456575 16:40:31.484988603 chrome 3008 pread /home/dzjp/.config/google-chrome/Default/History-journal with size 8
+464030 16:40:31.737340635 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History-journal with size 12
+465882 16:40:31.795688651 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History with size 4096
+465884 16:40:31.795724449 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History with size 4096
+465886 16:40:31.795730682 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History with size 4096
+465888 16:40:31.795735837 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History with size 4096
+465890 16:40:31.795740486 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History with size 4096
+465892 16:40:31.795744966 chrome 3008 pwrite /home/dzjp/.config/google-chrome/Default/History with size 4096
+486646 16:40:32.469403759 ThreadPoolForeg 3052 write /home/dzjp/.config/google-chrome/Default/.com.google.Chrome.ze0Awr with size 1708
+574735 16:40:35.354562651 chrome 3051 read /sys/class/tty/tty0/active with size 4096
+574737 16:40:35.354620505 chrome 3051 read /sys/class/tty/tty0/active with size 4096
+758555 16:40:41.503213399 chrome 3008 pwrite /home/dzjp/.cache/google-chrome/Default/Cod with size 1776
+759656 16:40:41.719510249 ThreadPoolForeg 3052 pwrite /home/dzjp/.cache/google-chrome/Default/Cache/index-dir/temp-index with size 5160
+869664 16:40:45.401016492 chrome 3008 write /home/dzjp/.config/google-chrome/.com.google.Chrome.YT4e5k with size 48962
+1001811 16:40:50.113359103 chrome 3081 exit
+1001828 16:40:50.113465364 ThreadPoolForeg 3078 exit
+1001832 16:40:50.113513676 ThreadPoolForeg 3075 exit
+1001833 16:40:50.113568713 chrome 3086 exit
+1001840 16:40:50.113615526 ThreadPoolForeg 3077 exit
+1001841 16:40:50.113624139 chrome 3073 exit
+1001845 16:40:50.113654453 chrome 3080 exit
+1001849 16:40:50.113678508 cat 3014 exit
+1001856 16:40:50.113812486 chrome 3074 exit
+1001857 16:40:50.113842934 chrome 3054 exit
+1001865 16:40:50.113900906 chrome 3057 exit
+1001866 16:40:50.113959049 exe 3052 exit
+1001872 16:40:50.114009867 chrome 3101 exit
+1001885 16:40:50.114078922 chrome 3089 exit
+1001898 16:40:50.114183670 chrome 3072 exit
+1001901 16:40:50.114328933 ThreadPoolForeg 3059 exit
+1001908 16:40:50.114383643 chrome 3056 exit
+1001939 16:40:50.115272237 chrome 3083 exit
+1001942 16:40:50.115316061 ThreadPoolForeg 3084 exit
+1001946 16:40:50.115362996 chrome 3085 exit
+1001950 16:40:50.115518946 chrome 3088 exit
+1001954 16:40:50.115585510 chrome 3091 exit
+1001958 16:40:50.115627741 chrome 3102 exit
+1001963 16:40:50.115735990 chrome 3029 exit
+1001966 16:40:50.115892006 chrome 3087 exit
+1001968 16:40:50.115905087 chrome 3095 exit
+1001973 16:40:50.115952215 chrome 3082 exit
+1001978 16:40:50.115988510 chrome 3058 exit
+1001981 16:40:50.116003075 chrome 3107 exit
+1001988 16:40:50.116067100 chrome 3103 exit
+1001992 16:40:50.116161795 ThreadPoolForeg 3090 exit
+1001996 16:40:50.116214479 chrome 3096 exit
+1002000 16:40:50.116272853 chrome 3100 exit
+1002004 16:40:50.117641315 chrome 3024 exit
+1002008 16:40:50.117830243 chrome 3094 exit
+1002012 16:40:50.117902659 chrome 3099 exit
+1002016 16:40:50.117946512 chrome 3109 exit
+1002020 16:40:50.117987221 chrome 3106 exit
+1002024 16:40:50.118024100 ThreadPoolForeg 3098 exit
+1002028 16:40:50.118338406 cat 3013 exit
+1002029 16:40:50.118400714 chrome 3008 clone thread 3217
+1002056 16:40:50.119869063 chrome 3079 exit
+1002063 16:40:50.120876240 ThreadPoolForeg 3076 exit
+1002079 16:40:50.121500751 chrome 3097 exit
+1002083 16:40:50.121601074 chrome 3092 exit
+1002088 16:40:50.121886145 chrome 3025 exit
+1002100 16:40:50.122001534 chrome 3108 exit
+1002186 16:40:50.123044107 chrome 3055 exit
+1002278 16:40:50.123693947 chrome 3008 write /dev/fd/63 with size 126
+1002296 16:40:50.123757011 nacl_helper 3026 exit
+1002437 16:40:50.125252952 chrome 3008 read /usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules.cache with size 4096
+1002441 16:40:50.125387990 chrome 3008 read /usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules.cache with size 4096
+1002443 16:40:50.125391266 chrome 3008 read /usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules.cache with size 4096
+1002465 16:40:50.125483275 chrome 3008 read /usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-ibus.so with size 832
+1002509 16:40:50.125683647 chrome 3008 read /usr/lib/x86_64-linux-gnu/libibus-1.0.so.5 with size 832
+1002521 16:40:50.126138555 chrome 3051 exit
+1002551 16:40:50.126853095 chrome 3104 exit
+1002729 16:40:50.128241347 chrome 3008 read /var/lib/dbus/machine-id with size 33
+1002798 16:40:50.128562669 chrome 3008 read /home/dzjp/.config/ibus/bus/e7b6803f127a4b208c2c4f3ecab43ea0-unix-0 with size 4096
+1002800 16:40:50.128570400 chrome 3008 read /home/dzjp/.config/ibus/bus/e7b6803f127a4b208c2c4f3ecab43ea0-unix-0 with size 4096
+1002813 16:40:50.128769865 chrome 3008 clone thread 3219
+1003185 16:40:50.131037005 chrome 3105 exit
+1003213 16:40:50.131457037 chrome 3008 clone thread 3220
+1003313 16:40:50.132070798 chrome 3030 exit
+1003353 16:40:50.137126234 chrome 3008 write /home/dzjp/.config/google-chrome/Default/.com.google.Chrome.LKAlhY with size 21400
+1003371 16:40:50.138605981 chrome 3008 write /home/dzjp/.config/google-chrome/.com.google.Chrome.Dx3JtB with size 48961
+1003730 16:40:50.413713735 chrome 3008 write /home/dzjp/.config/google-chrome/.com.google.Chrome.TiOayf with size 48962
+1003889 16:40:50.539226174 chrome 3022 exit
+1003893 16:40:50.539276463 chrome 3034 exit
+1003895 16:40:50.539291098 chrome 3120 exit
+1003899 16:40:50.539299178 chrome 3035 exit
+1003901 16:40:50.539312518 chrome 3071 exit
+1003905 16:40:50.539324379 chrome 3217 exit
+1003909 16:40:50.539352664 chrome 3044 exit
+1003912 16:40:50.539363868 ThreadPoolForeg 3066 exit
+1003921 16:40:50.539385301 ThreadPoolForeg 3036 exit
+1003922 16:40:50.539389756 chrome 3067 exit
+1003924 16:40:50.539391895 ThreadPoolForeg 3060 exit
+1003928 16:40:50.539417644 chrome 3048 exit
+1003938 16:40:50.539445778 chrome 3045 exit
+1003939 16:40:50.539450931 chrome 3041 exit
+1003942 16:40:50.539453633 chrome 3050 exit
+1003944 16:40:50.539466761 ThreadPoolForeg 3039 exit
+1003949 16:40:50.539484224 chrome 3043 exit
+1003958 16:40:50.539507624 chrome 3063 exit
+1003959 16:40:50.539509247 chrome 3038 exit
+1003960 16:40:50.539509284 chrome 3047 exit
+1003963 16:40:50.539515901 chrome 3064 exit
+1003970 16:40:50.539542328 ThreadPoolForeg 3046 exit
+1003977 16:40:50.539561055 chrome 3031 exit
+1003979 16:40:50.539566157 chrome 3033 exit
+1003980 16:40:50.539566714 chrome 3069 exit
+1003984 16:40:50.539588701 chrome 3042 exit
+1003988 16:40:50.539594035 chrome 3032 exit
+1003996 16:40:50.539615269 chrome 3065 exit
+1003997 16:40:50.539615801 chrome 3040 exit
+1004002 16:40:50.539623426 chrome 3037 exit
+1004003 16:40:50.539625339 chrome 3070 exit
+1004009 16:40:50.539663939 chrome 3068 exit
+1004012 16:40:50.539671168 chrome 3219 exit
+1004015 16:40:50.539717497 chrome 3061 exit
+1004016 16:40:50.539733467 chrome 3008 exit
+1004024 16:40:50.539781089 chrome 3220 exit
+1004025 16:40:50.539834890 chrome 3049 exit
+1004030 16:40:50.546626261 chrome 3062 exit
+1006307 16:40:50.562280973 chrome_crashpad 3021 exit
+1006317 16:40:50.562363328 chrome_crashpad 3020 exit
+1006336 16:40:50.562536160 chrome_crashpad 3016 exit
